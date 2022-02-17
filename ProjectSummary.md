@@ -15,3 +15,8 @@ The recommendation system will use and compare two different algorithms: cosine 
 * Random Forest uses a variety of decision trees that each return a boolean (yes/no) answer to whether the game should be recommended to the user. All of these results are combined to give a single score that determines the confidence in the result.
 
 The root-mean-square error (RMSE) method will be used at the end of the project to evaluate the quality of the models.
+
+## Data Sets & API :
+* [168GB Dataset](https://steam.internet.byu.edu/)
+* [Steam Github DataSet](https://github.com/woctezuma/steam-api-data)
+* [Steam API](https://partner.steamgames.com/doc/webapi_overview)
