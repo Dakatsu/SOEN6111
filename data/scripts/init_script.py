@@ -17,7 +17,15 @@ def generateData():
     for app in jsonObjectArray:
         appid = str(app['appid'])
         fetch_url = url_to_get_app_information+appid
-        response = requests.get(fetch_url).json()[appid]
+        
+        response = requests.get(fetch_url)
+        try:
+            response = response.json()
+        except:
+            continue
+        if response == None:
+            continue
+        response = response[appid]
         if response['success']:
             dataVal = response['data']
             if dataVal['type'] == 'game':
@@ -33,8 +41,10 @@ def generateData():
                 else:
                     metacritic = dataVal['metacritic']['score']
                 if "recommendation" not in dataVal:
+                    dataVal['recommendations']={'total':0}
+                if "developers" not in dataVal:
                     continue
-                dictionnary[appid] = {
+                objectVal = {
                     "name": dataVal['name'],
                     "price":price,
                     "required_age": dataVal['required_age'],
@@ -45,6 +55,12 @@ def generateData():
                     "release_date": dataVal['release_date']['date'],
                     "numberOfRecommendations": dataVal['recommendations']['total']
                 }
+                print("***"*100)
+                try:
+                    print(objectVal)
+                except:
+                    print('\n')
+                dictionnary[appid]= objectVal
         time.sleep(5)
     df = pd.DataFrame.from_dict(dictionnary, orient='index')
     df.to_csv(directory_path + '/datasets/games.csv') 
