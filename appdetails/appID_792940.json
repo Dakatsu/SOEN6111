@@ -1,0 +1,174 @@
+{
+  "type": "game",
+  "name": "Sail and Sacrifice",
+  "steam_appid": 792940,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<h1>Early Beta Access</h1><p>If you prefer to wait for a completed version, we recommend you <strong>add to wishlist</strong>! There will be bugs as we keep adding new content without thorough testing. We post patches frequently and ask our community to help us shape the future of <i>Sail and Sacrifice</i>.</p><br><h1>About the Game</h1>In this single player <strong>open-world adventure</strong> game, you will be the captain of yer own <strong>pirate fantasy</strong>! Explore the islands, sail the seas, amass a crew, and make a name for yerself in The Archipelago.<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li> <strong>Explore The Archipelago</strong> - See that giant skull in the distance? The massive volcano? Tall towers overlooking the sea? Anything the light touches is yers to discover. With 25 islands to explore, <i>Sail and Sacrifice</i> offers <strong>over 25 hours of immersive gameplay</strong>. The tribal, pirate, and Spanish architecture near the mountains and shorelines are filled with civilization, wildlife, and opportunity.<br></li><li> <strong>Captain a Ship</strong> - Expand yer crew, choose yer First Mate, decide the share for each member, and have them follow ye into battle. Gain respect by sinking ships and fighting enemies with swords and guns on land and at sea. Spend yer treasure on a variety of ships and weapon types to strike harder.<br></li><li> <strong>Choose yer Allies</strong> - The Kalinago natives look to their three Gods for help against the rise of piracy under immortal Captain Warden and the oppression of Spanish Prince Burg\u00e9s who claims divine right over the others. But there is more to this war than meets the eye. Take sides as the dynamic story and its characters change around you.<br></li><li> <strong>Live the Fantasy</strong> - <i>Sail and Sacrifice</i> brings ye to the world of pirates, getting drunk on tavern rum, singing sea shanties, and enjoying the witty conversations. All the while, discover ancient temples built by the natives that contain powerful artifacts. Visit the royal Spanish palace to admire their zoo animals, Renaissance paintings, and fine wine.</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/792940/extras/PlankShipBannerSmall.jpg?t=1552489478\" >",
+  "about_the_game": "In this single player <strong>open-world adventure</strong> game, you will be the captain of yer own <strong>pirate fantasy</strong>! Explore the islands, sail the seas, amass a crew, and make a name for yerself in The Archipelago.<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li> <strong>Explore The Archipelago</strong> - See that giant skull in the distance? The massive volcano? Tall towers overlooking the sea? Anything the light touches is yers to discover. With 25 islands to explore, <i>Sail and Sacrifice</i> offers <strong>over 25 hours of immersive gameplay</strong>. The tribal, pirate, and Spanish architecture near the mountains and shorelines are filled with civilization, wildlife, and opportunity.<br></li><li> <strong>Captain a Ship</strong> - Expand yer crew, choose yer First Mate, decide the share for each member, and have them follow ye into battle. Gain respect by sinking ships and fighting enemies with swords and guns on land and at sea. Spend yer treasure on a variety of ships and weapon types to strike harder.<br></li><li> <strong>Choose yer Allies</strong> - The Kalinago natives look to their three Gods for help against the rise of piracy under immortal Captain Warden and the oppression of Spanish Prince Burg\u00e9s who claims divine right over the others. But there is more to this war than meets the eye. Take sides as the dynamic story and its characters change around you.<br></li><li> <strong>Live the Fantasy</strong> - <i>Sail and Sacrifice</i> brings ye to the world of pirates, getting drunk on tavern rum, singing sea shanties, and enjoying the witty conversations. All the while, discover ancient temples built by the natives that contain powerful artifacts. Visit the royal Spanish palace to admire their zoo animals, Renaissance paintings, and fine wine.</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/792940/extras/PlankShipBannerSmall.jpg?t=1552489478\" >",
+  "short_description": "In this single player open-world adventure game, you will be the captain of yer own pirate fantasy! Explore the islands, sail the seas, amass a crew, and make a name for yerself in The Archipelago.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/792940/header.jpg?t=1552489478",
+  "website": "http://cagestudios.net/sailandsacrifice.html",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10 (64-bit versions)<br></li><li><strong>Processor:</strong> Intel Core i5-2400/AMD FX-8320 or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit version<br></li><li><strong>Processor:</strong> Intel i7 quad core processor<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 900 Series<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Mavericks<br></li><li><strong>Processor:</strong> 2 GHz Equivalent CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3 Compatible GPU with 1GB Video RAM<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X High Sierra<br></li><li><strong>Processor:</strong> Intel i7 quad core processor<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 500 series<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+  },
+  "linux_requirements": [],
+  "legal_notice": "\u201cSail and Sacrifice\u201d uses the Unreal\u00ae Engine. Unreal\u00ae is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere; And \u201cUnreal\u00ae Engine, Copyright 1998 \u2013 2019, Epic Games, Inc. All rights reserved.",
+  "developers": [
+    "CAGE Studios"
+  ],
+  "publishers": [
+    "CAGE Studios"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 1679,
+    "final": 1679,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "16,79\u20ac"
+  },
+  "packages": [
+    240157
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Sail and Sacrifice",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 240157,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Sail and Sacrifice - 16,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1679
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 13,
+      "description": "Captions available"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_4dbad0ec3acf903d75b3fb97a6fe7fe70f8ba6fe.600x338.jpg?t=1552489478",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_4dbad0ec3acf903d75b3fb97a6fe7fe70f8ba6fe.1920x1080.jpg?t=1552489478"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_55215d09dae64549787b04a604a31a7c76abcb19.600x338.jpg?t=1552489478",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_55215d09dae64549787b04a604a31a7c76abcb19.1920x1080.jpg?t=1552489478"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_e1d03d2935ce26c1d8981adb6890dbee03d349f6.600x338.jpg?t=1552489478",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_e1d03d2935ce26c1d8981adb6890dbee03d349f6.1920x1080.jpg?t=1552489478"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_053d7851cd4125c6876ca701bea3c83c4feb0d75.600x338.jpg?t=1552489478",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_053d7851cd4125c6876ca701bea3c83c4feb0d75.1920x1080.jpg?t=1552489478"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_3fd74071ec820591d54e26811c7bd00c3b919379.600x338.jpg?t=1552489478",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_3fd74071ec820591d54e26811c7bd00c3b919379.1920x1080.jpg?t=1552489478"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_1468392151aedffb3ec091878c597467d0dc5862.600x338.jpg?t=1552489478",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_1468392151aedffb3ec091878c597467d0dc5862.1920x1080.jpg?t=1552489478"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_9bee091dbaf61e3c483758063de729c3e15bd128.600x338.jpg?t=1552489478",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792940/ss_9bee091dbaf61e3c483758063de729c3e15bd128.1920x1080.jpg?t=1552489478"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256744657,
+      "name": "Official Gameplay Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744657/movie.293x165.jpg?t=1551890732",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744657/movie480.webm?t=1551890732",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744657/movie_max.webm?t=1551890732"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "3 Aug, 2018"
+  },
+  "support_info": {
+    "url": "http://cagestudios.net/contact.html",
+    "email": "staff@cagestudios.net"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/792940/page_bg_generated_v6b.jpg?t=1552489478",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

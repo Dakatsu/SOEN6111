@@ -1,0 +1,117 @@
+{
+  "type": "game",
+  "name": "Allumette",
+  "steam_appid": 460850,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "* free for a limited time *<br />\r\n<br />\r\nAllumette tells the story of a young orphan girl who lives in a fantastical city in the clouds. After enduring tragedy, she grasps at hope for her future. Loosely inspired by &quot;The Little Match Girl&quot; by Hans Christian Andersen, Allumette is an account of the love a mother and daughter have for one another, and the sacrifices they make for the greater good.",
+  "about_the_game": "* free for a limited time *<br />\r\n<br />\r\nAllumette tells the story of a young orphan girl who lives in a fantastical city in the clouds. After enduring tragedy, she grasps at hope for her future. Loosely inspired by &quot;The Little Match Girl&quot; by Hans Christian Andersen, Allumette is an account of the love a mother and daughter have for one another, and the sacrifices they make for the greater good.",
+  "short_description": "Allumette tells a story about love, sacrifice and a deep bond between a young girl and her mother.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/460850/header.jpg?t=1476389190",
+  "website": "http://www.penrosestudios.com/",
+  "pc_requirements": {
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> windows 7<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel i5-6400 / i5-4590 or greater<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 8 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> NVIDIA: GTX 1060 / GTX 970 / GTX TITAN or greater. | AMD: RX 480 / R9 390 / R9 290 or greater<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 11<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 2 GB</li></ul>",
+    "recommended": "<strong>\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> windows 10<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel i5-6400 / i5-4590 or greater<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 8 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> NVIDIA: GTX 1060 / GTX 970 / GTX TITAN or greater. | AMD: RX 480 / R9 390 / R9 290 or greater<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 11<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 2 GB</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "legal_notice": "\u00a9 2016 Penrose Studios, Inc. All Rights Reserved.",
+  "developers": [
+    "Penrose Studios"
+  ],
+  "publishers": [
+    "Penrose Studios"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_ac94548c1ccb9920873d2161b9df58065d323ec4.600x338.jpg?t=1476389190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_ac94548c1ccb9920873d2161b9df58065d323ec4.1920x1080.jpg?t=1476389190"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_ba309c21b1b771ad6c8fe16cbcf057e09c490c5b.600x338.jpg?t=1476389190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_ba309c21b1b771ad6c8fe16cbcf057e09c490c5b.1920x1080.jpg?t=1476389190"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_15cf2a99ae49c042e9d269e711d13b2354bde470.600x338.jpg?t=1476389190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_15cf2a99ae49c042e9d269e711d13b2354bde470.1920x1080.jpg?t=1476389190"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_6d537157910a551923426e51bc238d46319a11c9.600x338.jpg?t=1476389190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_6d537157910a551923426e51bc238d46319a11c9.1920x1080.jpg?t=1476389190"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_7129c2e322050ed36328c376cf16805f8e9cac67.600x338.jpg?t=1476389190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/460850/ss_7129c2e322050ed36328c376cf16805f8e9cac67.1920x1080.jpg?t=1476389190"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256672312,
+      "name": "Allumette Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256672312/movie.293x165.jpg?t=1476374451",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256672312/movie480.webm?t=1476374451",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256672312/movie_max.webm?t=1476374451"
+      },
+      "highlight": true
+    },
+    {
+      "id": 256670692,
+      "name": "Meet Allumette",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256670692/movie.293x165.jpg?t=1476374440",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256670692/movie480.webm?t=1476374440",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256670692/movie_max.webm?t=1476374440"
+      },
+      "highlight": false
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "13 Oct, 2016"
+  },
+  "support_info": {
+    "url": "http://www.penrosestudios.com/",
+    "email": "support@penrosestudios.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460850/page_bg_generated_v6b.jpg?t=1476389190",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

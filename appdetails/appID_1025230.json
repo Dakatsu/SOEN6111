@@ -1,0 +1,114 @@
+{
+  "type": "game",
+  "name": "Minda",
+  "steam_appid": 1025230,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Minda is an online version of Abalone, the board game. <br />\r\n<br />\r\nIn Minda, not only you can play with the standard rule, but also you can play with customized rules like 3 seconds turn timeout, one marble life or both.<br />\r\n<br />\r\nMinda has an unique discord bot that supports battle notification, match making and history view. This will make you easier to boast about your intelligence in your discord community.<br />\r\n<br />\r\nThe best feature of Minda is the marble skin. Upload any image you like and make it into a marble skin. It will be shown to other players.",
+  "about_the_game": "Minda is an online version of Abalone, the board game. <br />\r\n<br />\r\nIn Minda, not only you can play with the standard rule, but also you can play with customized rules like 3 seconds turn timeout, one marble life or both.<br />\r\n<br />\r\nMinda has an unique discord bot that supports battle notification, match making and history view. This will make you easier to boast about your intelligence in your discord community.<br />\r\n<br />\r\nThe best feature of Minda is the marble skin. Upload any image you like and make it into a marble skin. It will be shown to other players.",
+  "short_description": "Online Abalone board game.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/header.jpg?t=1551710743",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core2 Duo E4500 (2 * 2200) or equivalent<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 9600 GT (512 MB) / Intel HD Graphics 2500<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Sierra<br></li><li><strong>Processor:</strong> Intel Core2 Duo E4500 (2 * 2200) or equivalent<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+  },
+  "linux_requirements": [],
+  "developers": [
+    "Sunho Kim",
+    "Gibeom Seo",
+    "Donghyun Lee"
+  ],
+  "publishers": [
+    "Sunho Kim"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 27,
+      "description": "Cross-Platform Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": "37",
+      "description": "Free to Play"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_a1e84f6858947770cf5c792b7ee9362b4bb82dd0.600x338.jpg?t=1551710743",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_a1e84f6858947770cf5c792b7ee9362b4bb82dd0.1920x1080.jpg?t=1551710743"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_f548aef2f034334e78bc64572424bdb33c5b0db8.600x338.jpg?t=1551710743",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_f548aef2f034334e78bc64572424bdb33c5b0db8.1920x1080.jpg?t=1551710743"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_c3714c98fa46eeba331cd262be8194be60c0fc12.600x338.jpg?t=1551710743",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_c3714c98fa46eeba331cd262be8194be60c0fc12.1920x1080.jpg?t=1551710743"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_8766c66494496195e8c1d1474ff8f86f9acfa642.600x338.jpg?t=1551710743",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_8766c66494496195e8c1d1474ff8f86f9acfa642.1920x1080.jpg?t=1551710743"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_3bd0e35aab089ab6135c452363e917af5f1373d8.600x338.jpg?t=1551710743",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/ss_3bd0e35aab089ab6135c452363e917af5f1373d8.1920x1080.jpg?t=1551710743"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256744310,
+      "name": "v1",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744310/movie.293x165.jpg?t=1551463060",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744310/movie480.webm?t=1551463060",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744310/movie_max.webm?t=1551463060"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "15 Mar, 2019"
+  },
+  "support_info": {
+    "url": "",
+    "email": "ksunhokim123@naver.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1025230/page_bg_generated_v6b.jpg?t=1551710743",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "type": "dlc",
+  "name": "Fantasy Grounds - Mini-Dungeon #012: Nekh-ta-Nebi's Tomb (5E)",
+  "steam_appid": 552860,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<h2 class=\"bb_tag\"><strong>A 5E Mini-Dungeon for 4 Level 5 PCs</strong></h2><br><i>This complex is set inside a small pyramid or ancient burial site, deep within the desert. It is home to the remains of Nekh-ta-Nebi, a minor nobleman whose lust for power maintains him and his dusty retinue, centuries after their unholy deaths.</i><br><br>5E Mini-Dungeons are small adventures for 5th Edition which are setting agnostic and are easily inserted anywhere in your campaign.<br><br><strong>Requires:</strong> A Fantasy Grounds full or ultimate license or an active subscription and the included 5E Ruleset.",
+  "about_the_game": "<h2 class=\"bb_tag\"><strong>A 5E Mini-Dungeon for 4 Level 5 PCs</strong></h2><br><i>This complex is set inside a small pyramid or ancient burial site, deep within the desert. It is home to the remains of Nekh-ta-Nebi, a minor nobleman whose lust for power maintains him and his dusty retinue, centuries after their unholy deaths.</i><br><br>5E Mini-Dungeons are small adventures for 5th Edition which are setting agnostic and are easily inserted anywhere in your campaign.<br><br><strong>Requires:</strong> A Fantasy Grounds full or ultimate license or an active subscription and the included 5E Ruleset.",
+  "short_description": "A 5E Mini-Dungeon for 4 Level 5 PCsThis complex is set inside a small pyramid or ancient burial site, deep within the desert. It is home to the remains of Nekh-ta-Nebi, a minor nobleman whose lust for power maintains him and his dusty retinue, centuries after their unholy deaths.",
+  "fullgame": {
+    "appid": "252690",
+    "name": "Fantasy Grounds"
+  },
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/552860/header.jpg?t=1479238058",
+  "website": "http://www.fantasygrounds.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP, Vista, 7x , 8x or 10x<br></li><li><strong>Processeur\u00a0:</strong> 1.6 GHz or higher processor<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Graphics card recommended<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> N/A<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP, Vista, 7x , 8x or 10x<br></li><li><strong>Processeur\u00a0:</strong> 2.0 GHz or higher processor<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Graphics card recommended<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 2 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> N/A<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Requirements vary by the add-ons installed and the number of players connecting to your game.</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "legal_notice": "Some content Copyright (c) 2016 AAW GAMES, LLC. ALL RIGHTS RESERVED.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2016 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
+  "developers": [
+    "SmiteWorks USA, LLC"
+  ],
+  "publishers": [
+    ""
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 299,
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
+  },
+  "packages": [
+    137329
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Fantasy Grounds - Mini-Dungeon #012: Nekh-ta-Nebi's Tomb (5E)",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 137329,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fantasy Grounds - Mini-Dungeon #012: Nekh-ta-Nebi's Tomb (5E) - 2,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 299
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 9,
+      "description": "Co-op"
+    },
+    {
+      "id": 27,
+      "description": "Cross-Platform Multiplayer"
+    },
+    {
+      "id": 21,
+      "description": "Downloadable Content"
+    }
+  ],
+  "genres": [
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_ff214611dd10a83b44f724ed45e839beaf6069c4.600x338.jpg?t=1479238058",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_ff214611dd10a83b44f724ed45e839beaf6069c4.1920x1080.jpg?t=1479238058"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_d819ab7e8e2c4ba9854a660322683c6cbccb8c1c.600x338.jpg?t=1479238058",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_d819ab7e8e2c4ba9854a660322683c6cbccb8c1c.1920x1080.jpg?t=1479238058"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_4a7ab73918688555c2d673921f8e1d2440bb4d85.600x338.jpg?t=1479238058",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_4a7ab73918688555c2d673921f8e1d2440bb4d85.1920x1080.jpg?t=1479238058"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_569ee10e0898ff0d5f79081c712ed877708223b6.600x338.jpg?t=1479238058",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/552860/ss_569ee10e0898ff0d5f79081c712ed877708223b6.1920x1080.jpg?t=1479238058"
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "15 Nov, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "support@fantasygrounds.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/552860/page_bg_generated_v6b.jpg?t=1479238058",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

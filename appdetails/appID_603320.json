@@ -1,0 +1,110 @@
+{
+  "type": "game",
+  "name": "Age of Defense",
+  "steam_appid": 603320,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<img src=\"https://battlecruiser.ru/wstd/AoD/store/evo1.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr0.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr1.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr2.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr3.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr4.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/jump1.jpg\" crossorigin=\"anonymous\">",
+  "about_the_game": "<img src=\"https://battlecruiser.ru/wstd/AoD/store/evo1.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr0.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr1.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr2.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr3.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/descr4.jpg\" crossorigin=\"anonymous\"><br><img src=\"https://battlecruiser.ru/wstd/AoD/store/jump1.jpg\" crossorigin=\"anonymous\">",
+  "short_description": "AoD is tower defense game with some new features.",
+  "supported_languages": "English, German, Russian, Japanese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/603320/header.jpg?t=1554987745",
+  "website": "http://battlecruiser-games.com/aod.php",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows XP SP3 (32-bt) and newer<br></li><li><strong>Processor:</strong> Pentium or AMD 700mhz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Video Card DX9 128mb<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8 or newer<br></li><li><strong>Processor:</strong> Pentium or AMD 700mhz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Video Card DX9 128mb<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+<br></li><li><strong>Processor:</strong> Pentium or AMD 700mhz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Video Card DX9 128mb<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+  },
+  "developers": [
+    "Battlecruiser Games"
+  ],
+  "publishers": [
+    "Battlecruiser Games"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_770f229a336a304820e0b899e094e1b4329d5634.600x338.jpg?t=1554987745",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_770f229a336a304820e0b899e094e1b4329d5634.1920x1080.jpg?t=1554987745"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_fe2f6f1b1e91bb9de47e5193cad7c004f887953f.600x338.jpg?t=1554987745",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_fe2f6f1b1e91bb9de47e5193cad7c004f887953f.1920x1080.jpg?t=1554987745"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_ae1d97cf1b3bf50ef4b05622035ec6175d7a1470.600x338.jpg?t=1554987745",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_ae1d97cf1b3bf50ef4b05622035ec6175d7a1470.1920x1080.jpg?t=1554987745"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_bf76df6c09212e680aba5332f54c9920dacf3952.600x338.jpg?t=1554987745",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_bf76df6c09212e680aba5332f54c9920dacf3952.1920x1080.jpg?t=1554987745"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_4ece4d3ec37aea570b4499904ad0d19d86b7340b.600x338.jpg?t=1554987745",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/603320/ss_4ece4d3ec37aea570b4499904ad0d19d86b7340b.1920x1080.jpg?t=1554987745"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256680535,
+      "name": "Age of Defense - Greenlight Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256680535/movie.293x165.jpg?t=1488431764",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256680535/movie480.webm?t=1488431764",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256680535/movie_max.webm?t=1488431764"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "21 May 2019"
+  },
+  "support_info": {
+    "url": "http://battlecruiser-games.com/",
+    "email": "euler@battlecruiser.ru"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/603320/page_bg_generated_v6b.jpg?t=1554987745",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

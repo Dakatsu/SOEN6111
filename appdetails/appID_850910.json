@@ -1,0 +1,204 @@
+{
+  "type": "game",
+  "name": "Streamers Company Tycoon \u4e3b\u64ad\u7ecf\u7eaa\u516c\u53f8",
+  "steam_appid": 850910,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "First online streamer ageny in this country!<br />\r\nA new company! Now face the whole country and recruit company manager!<br />\r\n<br />\r\nResponsibilities:<br />\r\nResponsible for recruiting streamers, exploring new talents with potential, and building your own streamer team.<br />\r\nDevelop training plans for the streamers to help them increase their popularity<br />\r\nPlan marketing events, promote streamers and increase their fans<br />\r\nResponsible for following up the work of anchors and arranging their broadcast content<br />\r\nPay close attention to the communication between female streamers and customers, and give necessary suggestions to stabilize their relationship with customers<br />\r\nEstablish a good relationship with the streamers, take care of their health, arrange holidays appropriately, and adjust their salaries reasonably<br />\r\n<br />\r\nAs long as you have the ability, degree is not a problem<br />\r\nAs long as you have a dream, we will give you a platform<br />\r\nWhat are you still hesitating about?  The position is suitable for you with such talent.  Peak of life road with beauty around is waiting for you.",
+  "about_the_game": "First online streamer ageny in this country!<br />\r\nA new company! Now face the whole country and recruit company manager!<br />\r\n<br />\r\nResponsibilities:<br />\r\nResponsible for recruiting streamers, exploring new talents with potential, and building your own streamer team.<br />\r\nDevelop training plans for the streamers to help them increase their popularity<br />\r\nPlan marketing events, promote streamers and increase their fans<br />\r\nResponsible for following up the work of anchors and arranging their broadcast content<br />\r\nPay close attention to the communication between female streamers and customers, and give necessary suggestions to stabilize their relationship with customers<br />\r\nEstablish a good relationship with the streamers, take care of their health, arrange holidays appropriately, and adjust their salaries reasonably<br />\r\n<br />\r\nAs long as you have the ability, degree is not a problem<br />\r\nAs long as you have a dream, we will give you a platform<br />\r\nWhat are you still hesitating about?  The position is suitable for you with such talent.  Peak of life road with beauty around is waiting for you.",
+  "short_description": "First online streamer ageny in this country! A new company! Now face the whole country and recruit company manager!",
+  "supported_languages": "Simplified Chinese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/850910/header.jpg?t=1553139591",
+  "website": "https://afdian.net/@shitou",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> Intel Core2 Duo or equivalent AMD<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 280 series or higher</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.8<br></li><li><strong>Processor:</strong> Intel Core2 Duo or equivalent AMD<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 560 series or higher / AMD HD 6870 or higher</li></ul>"
+  },
+  "linux_requirements": [],
+  "developers": [
+    "\u77f3\u5934\u6e38\u620f"
+  ],
+  "publishers": [
+    "\u77f3\u5934\u6e38\u620f"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
+  },
+  "packages": [
+    266901
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Streamers Company Tycoon \u4e3b\u64ad\u7ecf\u7eaa\u516c\u53f8",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 266901,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "\u4e3b\u64ad\u7ecf\u7eaa\u516c\u53f8 - 8,19\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 819
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 30,
+      "description": "Steam Workshop"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_5800dd3b82cdc540c1dcd24c7907db7907646ab9.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_5800dd3b82cdc540c1dcd24c7907db7907646ab9.1920x1080.jpg?t=1553139591"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_3ed07e229d1ecdd7b61c4818d80d26b120746486.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_3ed07e229d1ecdd7b61c4818d80d26b120746486.1920x1080.jpg?t=1553139591"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_419181f331626b2af10d61ecdeb01f29adf7a26e.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_419181f331626b2af10d61ecdeb01f29adf7a26e.1920x1080.jpg?t=1553139591"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_023366e8b7a081f7c24499086d0c5a3bb1c9b994.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_023366e8b7a081f7c24499086d0c5a3bb1c9b994.1920x1080.jpg?t=1553139591"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_040edc81c471a232fb5b68c07ffb5222ffd9e5db.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_040edc81c471a232fb5b68c07ffb5222ffd9e5db.1920x1080.jpg?t=1553139591"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_692ea8c5d8d4418d4b82dd13901e1bd899821720.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_692ea8c5d8d4418d4b82dd13901e1bd899821720.1920x1080.jpg?t=1553139591"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_3a870f2b3bb73189b6c529256f7bfe6234735fd3.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_3a870f2b3bb73189b6c529256f7bfe6234735fd3.1920x1080.jpg?t=1553139591"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_468b8c7564b281ac1372b19271230ac25d1219cd.600x338.jpg?t=1553139591",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/850910/ss_468b8c7564b281ac1372b19271230ac25d1219cd.1920x1080.jpg?t=1553139591"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256715749,
+      "name": "PV",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256715749/movie.293x165.jpg?t=1551924550",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256715749/movie480.webm?t=1551924550",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256715749/movie_max.webm?t=1551924550"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 392
+  },
+  "achievements": {
+    "total": 38,
+    "highlighted": [
+      {
+        "name": "Thicc Lover",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/7c394f560406ad26fbc38a4f865c2afffa453493.jpg"
+      },
+      {
+        "name": "All-round Streamer",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/57bb4d3b33437efdcf2ea5c47c7248ad5a2bc8b2.jpg"
+      },
+      {
+        "name": "Fortune-laden",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/576d71c3e62384e7111d8064bcff3cc7cd496ceb.jpg"
+      },
+      {
+        "name": "Thriving Business",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/03e55a9c955672416598d446f54266d50d7d1add.jpg"
+      },
+      {
+        "name": "Charming Girl",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/c66df2ff910726fac8a7846851bfab638f39a805.jpg"
+      },
+      {
+        "name": "Great Beauty",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/e1be7cbd79cff027c2569e525a61cde33411c6c0.jpg"
+      },
+      {
+        "name": "Top Hit",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/8728d7dc6fc96fb2e9c05fe295ebaa17cd750e81.jpg"
+      },
+      {
+        "name": "Top 1",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/aaf28b2e1ab2120cb1ef80f18003a620d7a16c51.jpg"
+      },
+      {
+        "name": "Thanks to Sugar Daddy",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/0fd9ac2bad077bb2d29256deab3155b9ccfe35da.jpg"
+      },
+      {
+        "name": "Loser",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/850910/0b3f2e942bce1cb1f1a8e7fc1016fe3112995edd.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "13 Mar, 2019"
+  },
+  "support_info": {
+    "url": "114777533@qq.com",
+    "email": "114777533@qq.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/850910/page_bg_generated_v6b.jpg?t=1553139591",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

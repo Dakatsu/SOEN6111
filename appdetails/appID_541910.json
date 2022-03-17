@@ -1,0 +1,115 @@
+{
+  "type": "game",
+  "name": "David Slade Mysteries - Memories Of The Past",
+  "steam_appid": 541910,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<strong><u>DAVID SLADE MYSTERIES - ADVENTURE SERIES</u></strong><br><br>David Slade Mysteries is an ever expanding adventure series set in the gritty dark streets of River Side, where David must solve gruesome and mysterious cases. Memories Of The Past is the introduction chapter, introducing the series protagonist David Slade.<br><br><strong><u>CHAPTER ONE: MEMORIES OF THE PAST</u></strong><br><br>David Slade is a rookie homicide detective, with his own dark &amp; haunting past. When David's sister died, there were many strange circumstances surrounding her death, and too many unanswered questions. Today marks the 5th anniversary of her passing, and as usual he travels to visit his parents at the family farm, each year in this time of remembrance. Along the way David gets into car accident, stranded and injured he seeks help at a near by house. What happened next, he was completely unprepared for.<br><br><strong><u>F.A.Q</u></strong><br><br><strong>Q:</strong> This game is in chapters? What does this mean exactly?<br><strong>A:</strong> Each chapter is it's own game, it's own story told from start to finish, it is merely a chapter in Davids life as a homicide detective. So in short this game is NOT episodic, you can play this or the up coming chapters and enjoy a full game experience.<br><br>More F.A.Q's coming when questions arise.<br><br>Please share this page on your social media sites, friends, family, dogs e.t.c! Please help spread the word!<br><br>Thanks so much!",
+  "about_the_game": "<strong><u>DAVID SLADE MYSTERIES - ADVENTURE SERIES</u></strong><br><br>David Slade Mysteries is an ever expanding adventure series set in the gritty dark streets of River Side, where David must solve gruesome and mysterious cases. Memories Of The Past is the introduction chapter, introducing the series protagonist David Slade.<br><br><strong><u>CHAPTER ONE: MEMORIES OF THE PAST</u></strong><br><br>David Slade is a rookie homicide detective, with his own dark &amp; haunting past. When David's sister died, there were many strange circumstances surrounding her death, and too many unanswered questions. Today marks the 5th anniversary of her passing, and as usual he travels to visit his parents at the family farm, each year in this time of remembrance. Along the way David gets into car accident, stranded and injured he seeks help at a near by house. What happened next, he was completely unprepared for.<br><br><strong><u>F.A.Q</u></strong><br><br><strong>Q:</strong> This game is in chapters? What does this mean exactly?<br><strong>A:</strong> Each chapter is it's own game, it's own story told from start to finish, it is merely a chapter in Davids life as a homicide detective. So in short this game is NOT episodic, you can play this or the up coming chapters and enjoy a full game experience.<br><br>More F.A.Q's coming when questions arise.<br><br>Please share this page on your social media sites, friends, family, dogs e.t.c! Please help spread the word!<br><br>Thanks so much!",
+  "short_description": "David Slade Mysteries is an ever expanding adventure series set in the gritty dark streets of River Side, where David must solve gruesome and mysterious cases. Memories Of The Past is the introduction chapter, introducing the series protagonist David Slade.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/541910/header.jpg?t=1551776633",
+  "website": "http://www.gearworxprod.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 7+<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 600 Or ATI Equivalent<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 600+ Or ATI Equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS10+<br></li><li><strong>Processor:</strong> i5+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 600 Or ATI Equivalent<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS10+<br></li><li><strong>Processor:</strong> i5+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 600+ Or ATI Equivalent<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.0+<br></li><li><strong>Processor:</strong> i5+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 600 Or ATI Equivalent<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 18.10+<br></li><li><strong>Processor:</strong> i5+<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 600+ Or ATI Equivalent<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+  },
+  "developers": [
+    "Gear Worx Productions"
+  ],
+  "publishers": [
+    "Gear Worx Productions"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_cc7fd1b345bcb4180f6119bcc94be88786d06ca6.600x338.jpg?t=1551776633",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_cc7fd1b345bcb4180f6119bcc94be88786d06ca6.1920x1080.jpg?t=1551776633"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_a5a584014a9a4770f17dcdd785403b4dadcb206c.600x338.jpg?t=1551776633",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_a5a584014a9a4770f17dcdd785403b4dadcb206c.1920x1080.jpg?t=1551776633"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_68a00f0b2d645eed4446c24259c56a6480dfe23e.600x338.jpg?t=1551776633",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_68a00f0b2d645eed4446c24259c56a6480dfe23e.1920x1080.jpg?t=1551776633"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_4169f42e104954203017692deafae4a857ac89cd.600x338.jpg?t=1551776633",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_4169f42e104954203017692deafae4a857ac89cd.1920x1080.jpg?t=1551776633"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_c345214610d04cea1b25d9f5f6a60bde9dc74713.600x338.jpg?t=1551776633",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_c345214610d04cea1b25d9f5f6a60bde9dc74713.1920x1080.jpg?t=1551776633"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_7a5225638a56b7f850a224c02a41cf5e1269bea6.600x338.jpg?t=1551776633",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_7a5225638a56b7f850a224c02a41cf5e1269bea6.1920x1080.jpg?t=1551776633"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_1cc81b85853a80ead051670ebedddc8ed08cd5d8.600x338.jpg?t=1551776633",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541910/ss_1cc81b85853a80ead051670ebedddc8ed08cd5d8.1920x1080.jpg?t=1551776633"
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "Late 2019 or Early 2020 - TBA"
+  },
+  "support_info": {
+    "url": "http://www.gearworxprod.com",
+    "email": "mailbag@gearworxprod.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/541910/page_bg_generated_v6b.jpg?t=1551776633",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": "David Slade Mysteries is an ever expanding adventure series set in the gritty dark streets of River Side, where David must solve gruesome and mysterious cases. Memories Of The Past is the introduction chapter, introducing the series protagonist David Slade. And it does contain some graphics scenes including, violent crime scenes and content."
+  }
+}

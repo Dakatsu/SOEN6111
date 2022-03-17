@@ -1,0 +1,222 @@
+{
+  "type": "game",
+  "name": "MageQuit",
+  "steam_appid": 572220,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "A top-down wizard brawler about spell drafting and beard envy, MageQuit allows 10 mages to battle it out online or locally. Beards grow longer with each kill; the wizard with the longest beard after 9 rounds wins!<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>2-10 players (online or local)<br></li><li>Anonymous matchmaking<br></li><li>Spell drafting<br></li><li>Spell curving<br></li><li>Full controller support<br></li><li>Mouse and keyboard support<br>(more info: <a href=\"https://steamcommunity.com/app/572220/discussions/0/1814296907960847790/\" target=\"_blank\" rel=\"noreferrer\"  >https://steamcommunity.com/app/572220/discussions/0/1814296907960847790/</a>)<br></li><li>35 different spells (35 more coming)<br></li><li>Teams or free for all<br></li><li>Dynamic original sound track</li></ul><h2 class=\"bb_tag\">WAYS TO PLAY MAGEQUIT</h2><ul class=\"bb_ul\"><li><strong>Playing solo?</strong> Choose anonymous matchmaking.<br></li><li><strong>Have 1 or 2 friends over?</strong> Connect more controllers and choose anonymous matchmaking.<br></li><li><strong>Have a group of 4 to 10 at your house?</strong> Play locally.<br></li><li><strong>Have 1 or 2 friends online?</strong> Party up and choose anonymous matchmaking.<br></li><li><strong>Have a group of 4 to 10 online?</strong> Play online, party only.</li></ul>",
+  "about_the_game": "A top-down wizard brawler about spell drafting and beard envy, MageQuit allows 10 mages to battle it out online or locally. Beards grow longer with each kill; the wizard with the longest beard after 9 rounds wins!<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>2-10 players (online or local)<br></li><li>Anonymous matchmaking<br></li><li>Spell drafting<br></li><li>Spell curving<br></li><li>Full controller support<br></li><li>Mouse and keyboard support<br>(more info: <a href=\"https://steamcommunity.com/app/572220/discussions/0/1814296907960847790/\" target=\"_blank\" rel=\"noreferrer\"  >https://steamcommunity.com/app/572220/discussions/0/1814296907960847790/</a>)<br></li><li>35 different spells (35 more coming)<br></li><li>Teams or free for all<br></li><li>Dynamic original sound track</li></ul><h2 class=\"bb_tag\">WAYS TO PLAY MAGEQUIT</h2><ul class=\"bb_ul\"><li><strong>Playing solo?</strong> Choose anonymous matchmaking.<br></li><li><strong>Have 1 or 2 friends over?</strong> Connect more controllers and choose anonymous matchmaking.<br></li><li><strong>Have a group of 4 to 10 at your house?</strong> Play locally.<br></li><li><strong>Have 1 or 2 friends online?</strong> Party up and choose anonymous matchmaking.<br></li><li><strong>Have a group of 4 to 10 online?</strong> Play online, party only.</li></ul>",
+  "short_description": "A top-down wizard brawler about spell drafting and beard envy, MageQuit allows 10 mages to battle it out online or locally. Beards grow longer with each kill; the wizard with the longest beard after 9 rounds wins!",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/572220/header.jpg?t=1554914179",
+  "website": "https://discord.gg/magequit",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 10/8/7/Vista/XP<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 2 Duo E6600 or AMD Phenom\u2122 X3 8750 processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> SM3 2GB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS X 10.6.6 or higher<br></li><li><strong>Processor:</strong> Intel Core Duo Processor (2GHz or better)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 2400 or better / NVidia 8600M or better<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Gamepads Required</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 64-bit Dual core from Intel or AMD at 2.8 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Gamepads Required</li></ul>"
+  },
+  "developers": [
+    "Bowlcut Studios"
+  ],
+  "publishers": [
+    "Bowlcut Studios"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 799,
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
+  },
+  "packages": [
+    145377
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy MageQuit",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 145377,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "MageQuit - 7,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 799
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 37,
+      "description": "Local Multi-Player"
+    },
+    {
+      "id": 24,
+      "description": "Shared/Split Screen"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "18",
+      "description": "Sports"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_d600531ed7bde78ee4658647d23ab721d389f3d3.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_d600531ed7bde78ee4658647d23ab721d389f3d3.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_3522b3209820e8b2460d56f1909b34f0b89e3a64.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_3522b3209820e8b2460d56f1909b34f0b89e3a64.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_ee0c47f361563b2afc4b3b639fce054ac2668428.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_ee0c47f361563b2afc4b3b639fce054ac2668428.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_c2cad0677688d796bafa54fdcc62e1b63a7f2a60.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_c2cad0677688d796bafa54fdcc62e1b63a7f2a60.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_60b4fc310e35b8f93832827305cc75466b41d17e.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_60b4fc310e35b8f93832827305cc75466b41d17e.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_66472b0ecb9efb2848e451a28dcbd5866a96cfd2.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_66472b0ecb9efb2848e451a28dcbd5866a96cfd2.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_6ff91711b4253b2fbeb06631a22a0c078ba8e6bd.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_6ff91711b4253b2fbeb06631a22a0c078ba8e6bd.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_fb91ab019b2f6a8ebf4ef5647df5d501f686ebd9.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_fb91ab019b2f6a8ebf4ef5647df5d501f686ebd9.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_d1d42eadbb9185134f35ff6694a5bf46def2a9f7.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_d1d42eadbb9185134f35ff6694a5bf46def2a9f7.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_00d402d211b886f522b58a1faa033aee6eb8a725.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_00d402d211b886f522b58a1faa033aee6eb8a725.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_97f934b80d55ae137d31286d57f6bc7b13a03223.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_97f934b80d55ae137d31286d57f6bc7b13a03223.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_7d5c329a759aca53eab941ceba18b96d60cfe1cd.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_7d5c329a759aca53eab941ceba18b96d60cfe1cd.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 12,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_6277ff368417f1bdfef93614fb13088eaa71ab9c.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_6277ff368417f1bdfef93614fb13088eaa71ab9c.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 13,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_b5db34749213a1fbd32f2aba4237676b04acc063.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_b5db34749213a1fbd32f2aba4237676b04acc063.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 14,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_105e0b3fba943b4d7b484053a3c2bcb63689cef1.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_105e0b3fba943b4d7b484053a3c2bcb63689cef1.1920x1080.jpg?t=1554914179"
+    },
+    {
+      "id": 15,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_d82687b0ff125efbd8de80a9d0c468d4858a5cde.600x338.jpg?t=1554914179",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572220/ss_d82687b0ff125efbd8de80a9d0c468d4858a5cde.1920x1080.jpg?t=1554914179"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256694641,
+      "name": "Early Access Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256694641/movie.293x165.jpg?t=1554779316",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256694641/movie480.webm?t=1554779316",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256694641/movie_max.webm?t=1554779316"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "11 Jan, 2017"
+  },
+  "support_info": {
+    "url": "https://discord.gg/magequit",
+    "email": "brett@bowlcutstudios.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572220/page_bg_generated_v6b.jpg?t=1554914179",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

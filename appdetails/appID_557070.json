@@ -1,0 +1,134 @@
+{
+  "type": "series",
+  "name": "Robotpencil Presents: 3D Coat, Hard Surface Painting",
+  "steam_appid": 549430,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This tutorial series goes through how to paint your hard surface models in 3D coat. We'll go through layer masks, Autotopo, baking textures and using the Paint room.",
+  "about_the_game": "This tutorial series goes through how to paint your hard surface models in 3D coat. We'll go through layer masks, Autotopo, baking textures and using the Paint room.",
+  "short_description": "A tutorial on painting hard surface models in 3D Coat.",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/549430/header.jpg?t=1478805404",
+  "website": "https://www.robotpencil.net/tutorials",
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.10+<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "publishers": [
+    ""
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 599,
+    "final": 599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
+  },
+  "packages": [
+    135929
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Robotpencil Presents: 3D Coat, Hard Surface Painting",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 135929,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "3D Coat, Hard Surface Painting - 5,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 599
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 33,
+      "description": "Native Steam Controller Support"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_fe1644a2fcf170caf9bde760c0c5b865dd828e00.600x338.jpg?t=1478805404",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_fe1644a2fcf170caf9bde760c0c5b865dd828e00.1920x1080.jpg?t=1478805404"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_76294025ad6646ae4228f184bc0ad592ffc2478d.600x338.jpg?t=1478805404",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_76294025ad6646ae4228f184bc0ad592ffc2478d.1920x1080.jpg?t=1478805404"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_8ede1b907c0b1de5c71559c3c7657afc211a784f.600x338.jpg?t=1478805404",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_8ede1b907c0b1de5c71559c3c7657afc211a784f.1920x1080.jpg?t=1478805404"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_a3a1cad0075ac63f4a0644aef842a014396d57bd.600x338.jpg?t=1478805404",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_a3a1cad0075ac63f4a0644aef842a014396d57bd.1920x1080.jpg?t=1478805404"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_ba0f8f5402b69789e912af05261e6ca872faf469.600x338.jpg?t=1478805404",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/549430/ss_ba0f8f5402b69789e912af05261e6ca872faf469.1920x1080.jpg?t=1478805404"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256674144,
+      "name": "Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256674144/movie.293x165.jpg?t=1478805397",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256674144/movie480.webm?t=1478805397",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256674144/movie_max.webm?t=1478805397"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "10 Nov, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "robotpencil.info@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549430/page_bg_generated_v6b.jpg?t=1478805404",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

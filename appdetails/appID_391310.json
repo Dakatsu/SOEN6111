@@ -1,0 +1,229 @@
+{
+  "type": "game",
+  "name": "Alien Attack",
+  "steam_appid": 391310,
+  "required_age": 0,
+  "is_free": false,
+  "dlc": [
+    601690
+  ],
+  "detailed_description": "You are a space trooper. Your crew finished the cleaning mission and left you alone by accident. Now you are surrounded by aliens. They're not going to judge you or something, they just want to tear you apart in pieces. Prepare to die?<br><br>Fight them as long as you can. Your crew may help you later. Maybe one of squad members were also left here?<br><br>You have an arsenal of four weapons, which can be loot from bosses. And aliens will sometimes drop some other weaponry if not damaged.<br><br>That's it. Good luck.<br><br>Features:<br><ul class=\"bb_ul\"><li> Hardcore gameplay: are you a natural born alien hunter? Let's find out.<br></li><li> Retro-style pixel-art graphics: every sprite and background was drawn with love and care.<br></li><li> Retro-style chip sounds: do you love NES? Or maybe Famicom? Or Dendi? You have to check this game's sounds out then.<br></li><li> Impressive chiptune soundtrack by <a href=\"https://steamcommunity.com/linkfilter/?url=https://awesomeforce.bandcamp.com/album/codex-ep\" target=\"_blank\" rel=\"noopener\"  >Awesome Force</a>*: it is really great, you have to check it out.<br></li><li> Split-screen Co-op: you can play with your friend if you have an XBOX controller. Just contact them and try it out.<br></li><li> Steam achievements and leaderboards: did you achieve more than 1000 points? Or even more than 2000? Your friends will know about it. And they will be mad at themselves for being not the best gamers.</li></ul><br>* \u2014 <a href=\"https://steamcommunity.com/linkfilter/?url=https://awesomeforce.bandcamp.com/album/codex-ep\" target=\"_blank\" rel=\"noopener\"  >Codex EP by Awesome Force on the Bandcamp.</a> <i>If you like the soundtrack, don't be afraid to support the author for his amazing music. He will highly appreciate it!</i>",
+  "about_the_game": "You are a space trooper. Your crew finished the cleaning mission and left you alone by accident. Now you are surrounded by aliens. They're not going to judge you or something, they just want to tear you apart in pieces. Prepare to die?<br><br>Fight them as long as you can. Your crew may help you later. Maybe one of squad members were also left here?<br><br>You have an arsenal of four weapons, which can be loot from bosses. And aliens will sometimes drop some other weaponry if not damaged.<br><br>That's it. Good luck.<br><br>Features:<br><ul class=\"bb_ul\"><li> Hardcore gameplay: are you a natural born alien hunter? Let's find out.<br></li><li> Retro-style pixel-art graphics: every sprite and background was drawn with love and care.<br></li><li> Retro-style chip sounds: do you love NES? Or maybe Famicom? Or Dendi? You have to check this game's sounds out then.<br></li><li> Impressive chiptune soundtrack by <a href=\"https://steamcommunity.com/linkfilter/?url=https://awesomeforce.bandcamp.com/album/codex-ep\" target=\"_blank\" rel=\"noopener\"  >Awesome Force</a>*: it is really great, you have to check it out.<br></li><li> Split-screen Co-op: you can play with your friend if you have an XBOX controller. Just contact them and try it out.<br></li><li> Steam achievements and leaderboards: did you achieve more than 1000 points? Or even more than 2000? Your friends will know about it. And they will be mad at themselves for being not the best gamers.</li></ul><br>* \u2014 <a href=\"https://steamcommunity.com/linkfilter/?url=https://awesomeforce.bandcamp.com/album/codex-ep\" target=\"_blank\" rel=\"noopener\"  >Codex EP by Awesome Force on the Bandcamp.</a> <i>If you like the soundtrack, don't be afraid to support the author for his amazing music. He will highly appreciate it!</i>",
+  "short_description": "You are a space trooper. Your crew finished the cleaning mission and left you alone by accident. Now you are surrounded by aliens. Persist them as long as you can.",
+  "supported_languages": "English, Russian, French, Italian, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Portuguese, Japanese, Ukrainian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/391310/header.jpg?t=1555352066",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32 Bit or higher<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> \u0421ompatible with DirectX 9.0c<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 130 MB available space<br></li><li><strong>Additional Notes:</strong> Latest DirectX drivers</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Alien Jellyfish"
+  ],
+  "publishers": [
+    "Alien Jellyfish"
+  ],
+  "demos": [
+    {
+      "appid": 582140,
+      "description": ""
+    }
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 199,
+    "final": 59,
+    "discount_percent": 70,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,59\u20ac"
+  },
+  "packages": [
+    74719
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Alien Attack",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 74719,
+          "percent_savings_text": "-70%",
+          "percent_savings": 0,
+          "option_text": "Alien Attack: In Space - <span class=\"discount_original_price\">1,99\u20ac</span> 0,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 59
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 9,
+      "description": "Co-op"
+    },
+    {
+      "id": 24,
+      "description": "Shared/Split Screen"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    },
+    {
+      "id": 25,
+      "description": "Steam Leaderboards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_a25659d0260c813f21aed33efa2c04053008e964.600x338.jpg?t=1555352066",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_a25659d0260c813f21aed33efa2c04053008e964.1920x1080.jpg?t=1555352066"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_8b1bfb54994b9badf58d633d014f8d8d393d69aa.600x338.jpg?t=1555352066",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_8b1bfb54994b9badf58d633d014f8d8d393d69aa.1920x1080.jpg?t=1555352066"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_c977d2e37adf549982415a21465f785d3a5fe4bf.600x338.jpg?t=1555352066",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_c977d2e37adf549982415a21465f785d3a5fe4bf.1920x1080.jpg?t=1555352066"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_5d03bb5d8c2faf449315385a2c0d9f0463a94eb3.600x338.jpg?t=1555352066",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_5d03bb5d8c2faf449315385a2c0d9f0463a94eb3.1920x1080.jpg?t=1555352066"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_20301360fc2c8e766488619149428b7d2617de63.600x338.jpg?t=1555352066",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_20301360fc2c8e766488619149428b7d2617de63.1920x1080.jpg?t=1555352066"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_0080b8b0c756d388fdbeca133cfb550eece410ea.600x338.jpg?t=1555352066",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391310/ss_0080b8b0c756d388fdbeca133cfb550eece410ea.1920x1080.jpg?t=1555352066"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256747962,
+      "name": "trailer v1.2 without online",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747962/movie.293x165.jpg?t=1555352039",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747962/movie480.webm?t=1555352039",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747962/movie_max.webm?t=1555352039"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 118
+  },
+  "achievements": {
+    "total": 23,
+    "highlighted": [
+      {
+        "name": "Kill an enemy!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/db4e40cb7e7f5c7644faad9a6bbaf85a628280f4.jpg"
+      },
+      {
+        "name": "Die!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/0e3951d503117691445d3f8470102bd08078d2b5.jpg"
+      },
+      {
+        "name": "Kill 100 enemies!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/77d2c3762664fbb3d9feee8a6606da137bea7bab.jpg"
+      },
+      {
+        "name": "Die 10 times!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/bc3869a516aa44db37172d4a0ccf08f9b4464723.jpg"
+      },
+      {
+        "name": "Score 50 points!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/8c06ef16894402f5d9f1e9090cf912f75835d8a8.jpg"
+      },
+      {
+        "name": "Score 100 points!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/13a05a907aca1dbfa3464135b991e93c04cdb12b.jpg"
+      },
+      {
+        "name": "Score 250 points!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/4ac84f03887719eb88333bbeeb2ce1de59b8a84c.jpg"
+      },
+      {
+        "name": "Score 500 points!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/54c2e8a762ecb973941cca98eb0463c041b2d69d.jpg"
+      },
+      {
+        "name": "Score 1000 points!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/c27b8b16360b883b4253c256568223d880a3707b.jpg"
+      },
+      {
+        "name": "Palette lover",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391310/c719b5f79275b74ed76eff5c7e4526922cc644d3.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "21 Jun, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "katanadeath.alien@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391310/page_bg_generated_v6b.jpg?t=1555352066",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

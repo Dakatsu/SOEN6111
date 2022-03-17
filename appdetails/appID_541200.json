@@ -1,0 +1,169 @@
+{
+  "type": "game",
+  "name": "Get To The Orange Door",
+  "steam_appid": 541200,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/Logo_600_x_152.png?t=1554999189\" ><br><br>Get To The Orange Door, an intense and adrenaline pumping parkour platforming First Person Shooter based around the neon and chrome retro-futurist aesthetic of the 80's. With a mix of classic and modern first person shooter mechanics, wall run, slide, clamber, and dash around each level at supersonic speeds as you blow through enemies using unique weaponry and fluid movement mechanics.<br><br>The objective is in the title.<br><br>Use a varying range of weaponry, from a sword that can deflect bullets all the way to two full auto extended magazine machine pistols that shoot heat seeking rounds. Vending machines and boxes scattered and hidden around each level will help you arm up and prepare for combat.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/SteamImage2.jpg?t=1554999189\" ><br><br><ul class=\"bb_ul\">    <li> Fast paced movement focused FPS; a modern take on classic game mechanics<br>    </li><li> Multiple modes to play and master<br>    </li><li> Over 20 unique weapons, all with alternative fire modes<br>    </li><li> Partially generated levels and enemies; no single playthrough plays the same<br>    </li><li> A rad soundtrack</li></ul><br>Get To The Orange Door is currently in HEAVY development, and new changes are being added every day! The current roadmap is only a small portion of what I plan to add to the game, but with the nature of the game being very experimental, who knows what could happen. I appreciate you taking the time to check out my game, and I am excited to show you all what I have cooking up next. If you'd like to follow development, report bugs, or add in suggestions, please come and check out my Discord server! I am there every day talking with fans and showing off new stuff!<br><br><a href=\"https://www.reddit.com/r/GTTOD/\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/SteamButton1.png?t=1554999189\" ></a><br><a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/PBpYjwu\" target=\"_blank\" rel=\"noopener\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/SteamButton2.png?t=1554999189\" ></a>",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/Logo_600_x_152.png?t=1554999189\" ><br><br>Get To The Orange Door, an intense and adrenaline pumping parkour platforming First Person Shooter based around the neon and chrome retro-futurist aesthetic of the 80's. With a mix of classic and modern first person shooter mechanics, wall run, slide, clamber, and dash around each level at supersonic speeds as you blow through enemies using unique weaponry and fluid movement mechanics.<br><br>The objective is in the title.<br><br>Use a varying range of weaponry, from a sword that can deflect bullets all the way to two full auto extended magazine machine pistols that shoot heat seeking rounds. Vending machines and boxes scattered and hidden around each level will help you arm up and prepare for combat.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/SteamImage2.jpg?t=1554999189\" ><br><br><ul class=\"bb_ul\">    <li> Fast paced movement focused FPS; a modern take on classic game mechanics<br>    </li><li> Multiple modes to play and master<br>    </li><li> Over 20 unique weapons, all with alternative fire modes<br>    </li><li> Partially generated levels and enemies; no single playthrough plays the same<br>    </li><li> A rad soundtrack</li></ul><br>Get To The Orange Door is currently in HEAVY development, and new changes are being added every day! The current roadmap is only a small portion of what I plan to add to the game, but with the nature of the game being very experimental, who knows what could happen. I appreciate you taking the time to check out my game, and I am excited to show you all what I have cooking up next. If you'd like to follow development, report bugs, or add in suggestions, please come and check out my Discord server! I am there every day talking with fans and showing off new stuff!<br><br><a href=\"https://www.reddit.com/r/GTTOD/\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/SteamButton1.png?t=1554999189\" ></a><br><a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/PBpYjwu\" target=\"_blank\" rel=\"noopener\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/541200/extras/SteamButton2.png?t=1554999189\" ></a>",
+  "short_description": "Get To The Orange Door, an intense and adrenaline pumping parkour platforming First Person Shooter based around the neon and chrome retrofuturist aesthetic of the 80s. The objective is in the title.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/541200/header.jpg?t=1554999189",
+  "website": "https://discord.gg/5bKXg7X",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and up<br></li><li><strong>Processor:</strong> Intel i3 6100<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel Integrated Graphics 530<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> A 1992 Gravis Ultrasound<br></li><li><strong>Additional Notes:</strong> Could easily run on lower settings, if not mid settings</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and up<br></li><li><strong>Processor:</strong> AMD FX 8320 Eight-Core Processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon R9 200 Series<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Intel High Definition Audio<br></li><li><strong>Additional Notes:</strong> This is what the majority of the game was created on.</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Not Tested<br></li><li><strong>Processor:</strong> Not Tested<br></li><li><strong>Memory:</strong> 2 GB RAM</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> No<br></li><li><strong>Memory:</strong> 2 GB RAM</li></ul>"
+  },
+  "linux_requirements": [],
+  "developers": [
+    "Andrew Smith"
+  ],
+  "publishers": [
+    "Hitcents"
+  ],
+  "demos": [
+    {
+      "appid": 627610,
+      "description": "Demo"
+    }
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_03036933a1d324c87a0a0e0bfd89d22ae8ddc15e.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_03036933a1d324c87a0a0e0bfd89d22ae8ddc15e.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_45313324d8213688b32c113c458de8a4bf28ad77.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_45313324d8213688b32c113c458de8a4bf28ad77.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_4514bb5bff2e5ecb24c3f4f06b8d4c965bf7d5cc.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_4514bb5bff2e5ecb24c3f4f06b8d4c965bf7d5cc.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_339dc3e1dba23f9e2174406b491c669ca993c5b7.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_339dc3e1dba23f9e2174406b491c669ca993c5b7.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_e078835b6300347f37b5fb01ab88478a8fc25de1.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_e078835b6300347f37b5fb01ab88478a8fc25de1.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_51d16dfd5a8c1e67fa55ab6232f8f3b5dab42814.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_51d16dfd5a8c1e67fa55ab6232f8f3b5dab42814.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_36429099ad33192834eeb4ceaa0df6f575aaf165.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_36429099ad33192834eeb4ceaa0df6f575aaf165.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_c376c1052f76f462fafe3abb848c278b19dee724.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_c376c1052f76f462fafe3abb848c278b19dee724.1920x1080.jpg?t=1554999189"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_35f0087edba05fa6763d10751272707f8d1882c4.600x338.jpg?t=1554999189",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541200/ss_35f0087edba05fa6763d10751272707f8d1882c4.1920x1080.jpg?t=1554999189"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256713498,
+      "name": "GTTOD Over-overhaul Update trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256713498/movie.293x165.jpg?t=1522964697",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256713498/movie480.webm?t=1522964697",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256713498/movie_max.webm?t=1522964697"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 6,
+    "highlighted": [
+      {
+        "name": "Low Standards",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/541200/23854b4f78b74a7acb2b0931200a5b896c9d027c.jpg"
+      },
+      {
+        "name": "Obeying the L.A.W.",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/541200/2b7a5538f0394b3bc4f6e9ac944254eddede2c52.jpg"
+      },
+      {
+        "name": "Nerf or nothin'",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/541200/b76e604718a99159b5b032ad386ae5a48a821a17.jpg"
+      },
+      {
+        "name": "Medium Standards",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/541200/fa063263c6a23a3b28321ca7f725b0a5b480eab1.jpg"
+      },
+      {
+        "name": "High Standards",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/541200/9ac11ed38158158b7d93cee1ffe483aeb9c6c038.jpg"
+      },
+      {
+        "name": "I don't keep it loaded",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/541200/7e6c422935adb041cb252619478eeb115463a3b6.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "27 Oct, 2017"
+  },
+  "support_info": {
+    "url": "https://discord.gg/5bKXg7X",
+    "email": "support@hitcents.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/541200/page_bg_generated_v6b.jpg?t=1554999189",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

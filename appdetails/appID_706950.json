@@ -1,0 +1,149 @@
+{
+  "type": "game",
+  "name": "Chupacabra",
+  "steam_appid": 706950,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "ABOUT THIS GAME<br />\r\nAs a private investigator you will embark on a journey of finding lost professor who claims that he discovered a way to bait Chupacabra. <br />\r\nPlayers will experience dense jungle environment that is accompanied by certain events, such as predators hunting at night.<br />\r\n<br />\r\nCURRENT FEATURES<br />\r\nSingle player PvE Sandbox<br />\r\nDynamic fog weather and Day-Night cycle<br />\r\nTime Mechanics - passing time, sleeping, doing something takes time<br />\r\nCrafting and Base Building<br />\r\nGenerator and electrical appliance mechanics<br />\r\nCamp control and AI - Bandits, Animals<br />\r\nCharacter Survival Status Mechanics (Sickness, wound, poison)<br />\r\nWound Status Mechanics <br />\r\nEquipment and clothing system <br />\r\nCamp and house defense<br />\r\n<br />\r\nROADMAP<br />\r\nManage performance and optimize the game <br />\r\nFixing bugs in the game <br />\r\nAdd more animals<br />\r\nManage and adjust AI to be more complex<br />\r\nMain story and storytelling<br />\r\nImproved User Interface",
+  "about_the_game": "ABOUT THIS GAME<br />\r\nAs a private investigator you will embark on a journey of finding lost professor who claims that he discovered a way to bait Chupacabra. <br />\r\nPlayers will experience dense jungle environment that is accompanied by certain events, such as predators hunting at night.<br />\r\n<br />\r\nCURRENT FEATURES<br />\r\nSingle player PvE Sandbox<br />\r\nDynamic fog weather and Day-Night cycle<br />\r\nTime Mechanics - passing time, sleeping, doing something takes time<br />\r\nCrafting and Base Building<br />\r\nGenerator and electrical appliance mechanics<br />\r\nCamp control and AI - Bandits, Animals<br />\r\nCharacter Survival Status Mechanics (Sickness, wound, poison)<br />\r\nWound Status Mechanics <br />\r\nEquipment and clothing system <br />\r\nCamp and house defense<br />\r\n<br />\r\nROADMAP<br />\r\nManage performance and optimize the game <br />\r\nFixing bugs in the game <br />\r\nAdd more animals<br />\r\nManage and adjust AI to be more complex<br />\r\nMain story and storytelling<br />\r\nImproved User Interface",
+  "short_description": "Chupacabra is first person horror survival game that allows players to hunt one of the most mysterious creatures ever roaming the earth.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/706950/header.jpg?t=1555520001",
+  "website": "https://anpa.us",
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 or newer<br></li><li><strong>Processeur\u00a0:</strong> Intel(R) Core(TM)2 Duo 2.4, AMD Athlon(TM) X2 2.8 Ghz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Geforce 9600 GS, Radeon HD4000, Shader Model 3.0, 512 MB<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0<br></li><li><strong>Espace disque\u00a0:</strong> 5 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX compatible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> If you are on or around the min spec then you may need to run with Half Res Textures and Low graphics options and at a lower resolution.</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> OSX 10.9 or Higher<br></li><li><strong>Processeur\u00a0:</strong> Intel(R) Core(TM)2 Duo 2.4, AMD Athlon(TM) X2 2.8 Ghz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Geforce 9600 GS, Radeon HD4000, Shader Model 3.0, 512 MB<br></li><li><strong>Espace disque\u00a0:</strong> 5 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> Integrated<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> If you are on or around the min spec then you may need to run with Half Res Textures and Low graphics options and at a lower resolution.</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Processeur\u00a0:</strong> Intel(R) Core(TM)2 Duo 2.4, AMD Athlon(TM) X2 2.8 Ghz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Geforce 9600 GS, Radeon HD4000, Shader Model 3.0, 512 MB<br></li><li><strong>Espace disque\u00a0:</strong> 5 GB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> If you are on or around the min spec then you may need to run with Half Res Textures and Low graphics options and at a lower resolution.</li></ul>"
+  },
+  "developers": [
+    "White Hammer"
+  ],
+  "publishers": [
+    "ANPA.US"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_181ad3711bc824dca50d9542211c5eba979decc8.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_181ad3711bc824dca50d9542211c5eba979decc8.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_0bad552af43e2bf21d97856e4ce36e43b066caed.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_0bad552af43e2bf21d97856e4ce36e43b066caed.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_3464813fdd7d87d9b6250842b138f50775c77eda.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_3464813fdd7d87d9b6250842b138f50775c77eda.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_de0a7cb5ea396180af86f3e6ac59e508f3c63e51.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_de0a7cb5ea396180af86f3e6ac59e508f3c63e51.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_1e39bfd2256155262b85e0daea72f7350aca1de8.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_1e39bfd2256155262b85e0daea72f7350aca1de8.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_c00d4c6eafc5faf4be6c367e07a4c7e7a5ec3f9a.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_c00d4c6eafc5faf4be6c367e07a4c7e7a5ec3f9a.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_8acea293cddc4b421827b5ef981bc6b14d8bbefb.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_8acea293cddc4b421827b5ef981bc6b14d8bbefb.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_774cea885d626537ca589b1c93820f17311f088d.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_774cea885d626537ca589b1c93820f17311f088d.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_2bc873e550f394dc7b6bbd4acbed06e03ff4bcf3.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_2bc873e550f394dc7b6bbd4acbed06e03ff4bcf3.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_efda9865afec9bff5a708624fcb42c93ad02a8f4.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_efda9865afec9bff5a708624fcb42c93ad02a8f4.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_9f9fa96177108fdecfe93f2f5cc2bd52e5a51d3c.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_9f9fa96177108fdecfe93f2f5cc2bd52e5a51d3c.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_834ee820cb0c4cf14624c11a0013a7a89f841ca2.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_834ee820cb0c4cf14624c11a0013a7a89f841ca2.1920x1080.jpg?t=1555520001"
+    },
+    {
+      "id": 12,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_fc4a3df786c56adde320452c00bf54ac23aceb37.600x338.jpg?t=1555520001",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706950/ss_fc4a3df786c56adde320452c00bf54ac23aceb37.1920x1080.jpg?t=1555520001"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256694395,
+      "name": "Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256694395/movie.293x165.jpg?t=1504644878",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256694395/movie480.webm?t=1504644878",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256694395/movie_max.webm?t=1504644878"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "18 Sep, 2019"
+  },
+  "support_info": {
+    "url": "https://anpa.us",
+    "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/706950/page_bg_generated_v6b.jpg?t=1555520001",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
+}

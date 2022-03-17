@@ -1,0 +1,79 @@
+{
+  "type": "game",
+  "name": "Viveport Video",
+  "steam_appid": 606180,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "Viveport Video is a VR video player providing immersive and cinematic VR experience of 3D, 180 and 360 video. Its intuitive control system works best with PC VR headsets, including VIVE and Oculus Rift. In addition, it also offers great collections of premium video libraries, including Red bull and MLB.",
+  "about_the_game": "Viveport Video is a VR video player providing immersive and cinematic VR experience of 3D, 180 and 360 video. Its intuitive control system works best with PC VR headsets, including VIVE and Oculus Rift. In addition, it also offers great collections of premium video libraries, including Red bull and MLB.",
+  "short_description": "Viveport Video provides an immersive, cinematic viewing experience for standard, 3D, 180\u02daand 360\u02da videos in VR.",
+  "supported_languages": "English, Simplified Chinese, Traditional Chinese, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Japanese, Korean, Norwegian, Polish, Russian, Swedish",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/606180/header.jpg?t=1554804051",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7, 8.0, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i5-4590 or AMD FX 8350, equivalent or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 or AMD Radeon RX 480, equivalent or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "HTC Creative Labs"
+  ],
+  "publishers": [
+    "HTC America Innovation, Inc."
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "genres": [
+    {
+      "id": "57",
+      "description": "Utilities"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_ae5c5f73fbd4ad7033040074d368463ca5ecd760.600x338.jpg?t=1554804051",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_ae5c5f73fbd4ad7033040074d368463ca5ecd760.1920x1080.jpg?t=1554804051"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_ae86b0eea4afcde289acec6f577f7ac58baa43bc.600x338.jpg?t=1554804051",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_ae86b0eea4afcde289acec6f577f7ac58baa43bc.1920x1080.jpg?t=1554804051"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_cc5a95640030a97dd17ac2e97942e702e4e83b6d.600x338.jpg?t=1554804051",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_cc5a95640030a97dd17ac2e97942e702e4e83b6d.1920x1080.jpg?t=1554804051"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_4203bdbda9b6886ccbfad3486e3a71f38046ceeb.600x338.jpg?t=1554804051",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_4203bdbda9b6886ccbfad3486e3a71f38046ceeb.1920x1080.jpg?t=1554804051"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_d91515eef2e5ca5d827bcf2ebd2ff00c82149259.600x338.jpg?t=1554804051",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/606180/ss_d91515eef2e5ca5d827bcf2ebd2ff00c82149259.1920x1080.jpg?t=1554804051"
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "20 Mar, 2017"
+  },
+  "support_info": {
+    "url": "",
+    "email": "creative_labs_apps@htc.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/606180/page_bg_generated_v6b.jpg?t=1554804051",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

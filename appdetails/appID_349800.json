@@ -1,0 +1,67 @@
+{
+  "type": "demo",
+  "name": "The Charnel House Trilogy Demo",
+  "steam_appid": 349800,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "This demo for The Charnel House Trilogy is complete middle episode of the game 'Sepulchre'.",
+  "about_the_game": "This demo for The Charnel House Trilogy is complete middle episode of the game 'Sepulchre'.",
+  "short_description": "This demo for The Charnel House Trilogy is complete middle episode of the game 'Sepulchre'.",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/349800/header.jpg?t=1449600797",
+  "website": "http://owlcave.net/",
+  "pc_requirements": {
+    "minimum": "<strong>\u6700\u4f4e\u914d\u5099:</strong><br><ul class=\"bb_ul\"><li><strong>\u4f5c\u696d\u7cfb\u7d71:</strong> Windows XP SP 3 / Vista / 7 / 8<br></li><li><strong>\u8655\u7406\u5668:</strong> 1 GHz processor<br></li><li><strong>\u8a18\u61b6\u9ad4:</strong> 512 MB \u8a18\u61b6\u9ad4<br></li><li><strong>\u986f\u793a\u5361:</strong> Integrated Graphics (512MB VRAM and above)<br></li><li><strong>DirectX:</strong> \u7248\u672c\uff1a9.0c<br></li><li><strong>\u5132\u5b58\u7a7a\u9593:</strong> 220 MB \u53ef\u7528\u7a7a\u9593<br></li><li><strong>\u97f3\u6548\u5361:</strong> DirectX 9.0c compatible.</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Owl Cave"
+  ],
+  "publishers": [
+    "Owl Cave"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 10,
+      "description": "Game demo"
+    }
+  ],
+  "genres": [
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "16 Apr, 2015"
+  },
+  "support_info": {
+    "url": "http://www.owlcave.net",
+    "email": "ashton@owlcave.net"
+  },
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

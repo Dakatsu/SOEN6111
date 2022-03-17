@@ -1,0 +1,122 @@
+{
+  "type": "video",
+  "name": "Katt Williams: 9 Lives",
+  "steam_appid": 537970,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Featuring rare never before released stand-up from early in Katt\u2019s phenomenal career, go behind the scenes to witness the king of comedy\u2019s meteoric rise to fame. This movie shows a star in the making as it traces back to Katt as a young comic then follows his evolution as a performer and his path to fame and fortune. Includes some of Katt\u2019s greatest stand-up comedy, revealing interviews, and an intimate look inside the comic\u2019s life and work.",
+  "about_the_game": "Featuring rare never before released stand-up from early in Katt\u2019s phenomenal career, go behind the scenes to witness the king of comedy\u2019s meteoric rise to fame. This movie shows a star in the making as it traces back to Katt as a young comic then follows his evolution as a performer and his path to fame and fortune. Includes some of Katt\u2019s greatest stand-up comedy, revealing interviews, and an intimate look inside the comic\u2019s life and work.",
+  "short_description": "This movie shows a star in the making as it traces back to Katt as a young comic then follows his evolution as a performer and his path to fame and fortune. Featuring rare never before released stand-up from early in Katt\u2019s phenomenal career, go behind the scenes to witness the king of comedy\u2019s meteoric rise to fame.",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/537970/header.jpg?t=1551385998",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.10+<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "legal_notice": "2010 Salient Media",
+  "developers": [
+    "Salient Media"
+  ],
+  "publishers": [
+    "Salient Media"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 33,
+      "description": "Native Steam Controller Support"
+    },
+    {
+      "id": 13,
+      "description": "Captions available"
+    }
+  ],
+  "genres": [
+    {
+      "id": "80",
+      "description": "Movie"
+    },
+    {
+      "id": "81",
+      "description": "Documentary"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_346880daebb5ef796e29d57ed21af51657fb2db5.600x338.jpg?t=1551385998",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_346880daebb5ef796e29d57ed21af51657fb2db5.1920x1080.jpg?t=1551385998"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_9314167a73f2dae9934a4bd85265ea5500e4c644.600x338.jpg?t=1551385998",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_9314167a73f2dae9934a4bd85265ea5500e4c644.1920x1080.jpg?t=1551385998"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_d1e82d0d185d717b424bfd5e5521adf87848195d.600x338.jpg?t=1551385998",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_d1e82d0d185d717b424bfd5e5521adf87848195d.1920x1080.jpg?t=1551385998"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_ea6e374ed934e2a1ecda15ee7c4d546c0c8c0c26.600x338.jpg?t=1551385998",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_ea6e374ed934e2a1ecda15ee7c4d546c0c8c0c26.1920x1080.jpg?t=1551385998"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_fe2777a106e53822e4a3d72c5595e4d4787e78a3.600x338.jpg?t=1551385998",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537970/ss_fe2777a106e53822e4a3d72c5595e4d4787e78a3.1920x1080.jpg?t=1551385998"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256671813,
+      "name": "Katt Williams: 9 Lives - Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256671813/movie.293x165.jpg?t=1486087232",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256671813/movie480.webm?t=1486087232",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256671813/movie_max.webm?t=1486087232"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "2 Feb, 2017"
+  },
+  "support_info": {
+    "url": "http://salientmedia.com/",
+    "email": "info@salientmedia.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/537970/page_bg_generated_v6b.jpg?t=1551385998",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

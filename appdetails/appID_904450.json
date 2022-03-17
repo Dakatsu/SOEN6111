@@ -1,0 +1,135 @@
+{
+  "type": "game",
+  "name": "Port Valley",
+  "steam_appid": 904450,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Port Valley is a (not so) classic Point &amp; Click adventure game where perspective changes everything! Witness Port Valley's Election Day from three different points of view: An extremely lazy Asian food delivery guy, a mysterious female plumber\u2026 <i>and someone else</i>.<br><br>One by one, these unusual &quot;heroes&quot; will be forced to interrupt their boring everyday lives and get ready for action before it's just too late. Work, revenge, political conspiracies, a banana balloon\u2026 it seems everything was meant to clash on this specific day.<br><br>Prepare yourself to overcome the\u00a0crossed paths of Port Valley\u2019s singular citizens\u00a0and unfold an obscure plot that seems to be tying together these <i>apparently</i> unrelated stories.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li><strong>Three plots, three main characters, three difficulty modes, three mayoral candidates</strong>\u2026 three chances to unfold a bigger and complex story.<br></li><li><strong>A renewed yet classic Point &amp; Click interface.*</strong> (*May not be that renewed.)<br></li><li><strong>A humoristic and\u00a0light-hearted\u00a0tone with annoying self-aware humor.</strong> (Which doesn't necessarily mean this is just a comedy\u2026)<br></li><li><strong>Active NPCs.</strong> They're not just there to give you items. They also have their objectives, which may be more important than yours. <br></li><li><strong>Annoying puzzles with different ways to solve them.</strong> For real.<br></li><li><strong>A day-night cycle.</strong> (This would've been SUCH a big deal back in the 90's.)<br></li><li><strong>A dog.</strong></li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/904450/extras/Dog_Steam_Gif2.gif?t=1555353471\" ><h2 class=\"bb_tag\">The DEMO</h2><br><ul class=\"bb_ul\"><li>It's an hour-long version of one of the three stories of the game: <strong>The Delivery Guy plot</strong>. <br></li><li>The puzzles and the plot have been simplified to fit the new length, but it may work as a first taste of Port Valley's mechanics and characters.</li></ul>",
+  "about_the_game": "Port Valley is a (not so) classic Point &amp; Click adventure game where perspective changes everything! Witness Port Valley's Election Day from three different points of view: An extremely lazy Asian food delivery guy, a mysterious female plumber\u2026 <i>and someone else</i>.<br><br>One by one, these unusual &quot;heroes&quot; will be forced to interrupt their boring everyday lives and get ready for action before it's just too late. Work, revenge, political conspiracies, a banana balloon\u2026 it seems everything was meant to clash on this specific day.<br><br>Prepare yourself to overcome the\u00a0crossed paths of Port Valley\u2019s singular citizens\u00a0and unfold an obscure plot that seems to be tying together these <i>apparently</i> unrelated stories.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li><strong>Three plots, three main characters, three difficulty modes, three mayoral candidates</strong>\u2026 three chances to unfold a bigger and complex story.<br></li><li><strong>A renewed yet classic Point &amp; Click interface.*</strong> (*May not be that renewed.)<br></li><li><strong>A humoristic and\u00a0light-hearted\u00a0tone with annoying self-aware humor.</strong> (Which doesn't necessarily mean this is just a comedy\u2026)<br></li><li><strong>Active NPCs.</strong> They're not just there to give you items. They also have their objectives, which may be more important than yours. <br></li><li><strong>Annoying puzzles with different ways to solve them.</strong> For real.<br></li><li><strong>A day-night cycle.</strong> (This would've been SUCH a big deal back in the 90's.)<br></li><li><strong>A dog.</strong></li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/904450/extras/Dog_Steam_Gif2.gif?t=1555353471\" ><h2 class=\"bb_tag\">The DEMO</h2><br><ul class=\"bb_ul\"><li>It's an hour-long version of one of the three stories of the game: <strong>The Delivery Guy plot</strong>. <br></li><li>The puzzles and the plot have been simplified to fit the new length, but it may work as a first taste of Port Valley's mechanics and characters.</li></ul>",
+  "short_description": "The (not so) classic Point &amp; Click adventure where perspective changes everything! Witness Port Valley's Election Day from 3 points of view and find out what's really going on in this bizarre town.",
+  "supported_languages": "English, Spanish - Spain, Spanish - Latin America",
+  "reviews": "\u201cThe writing is fresh. The puzzles, excellent. It feels much more than a nostalgic love letter.\u201d<br />\r\nAlpha Beta Gamer<br />\r\n<br />\r\n\u201cAttractive pixel art, wacky characters, all sort of hi-jinks\u2026 it\u2019s going to be a game to look forward to. It also has a dog.\u201d<br />\r\nIndie Games Plus<br />\r\n<br />\r\n\u201cThey're exaggerating.\u201d<br />\r\nThe Developer<br />\r\n",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/904450/header.jpg?t=1555353471",
+  "website": "https://portvalleygame.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 150 MB RAM</li></ul>"
+  },
+  "legal_notice": "All rights reserved \u00a9 2019 \u00c1lvaro Moreno",
+  "developers": [
+    "WrongPixel"
+  ],
+  "publishers": [
+    "WrongPixel"
+  ],
+  "demos": [
+    {
+      "appid": 904460,
+      "description": "Wanna give it a try? (I won't get mad if you don't)"
+    }
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 13,
+      "description": "Captions available"
+    }
+  ],
+  "genres": [
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_270bdcf346aab8d917975a18071f8b8959ba0e3f.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_270bdcf346aab8d917975a18071f8b8959ba0e3f.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_1e8f081d1e1c3a9c2d8399e6b36bb3558e7a814b.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_1e8f081d1e1c3a9c2d8399e6b36bb3558e7a814b.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_cf132dc9c3a2b49bf182a925be99bf51bc59abad.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_cf132dc9c3a2b49bf182a925be99bf51bc59abad.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_b76487c8d2036efeb9a76b9543d1a499025b3ba9.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_b76487c8d2036efeb9a76b9543d1a499025b3ba9.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_bd3a7f6c6826f99f71ee1475619b6ac0e6ac35aa.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_bd3a7f6c6826f99f71ee1475619b6ac0e6ac35aa.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_e4a05215755343a7edf09f88b7f8411f51a337fc.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_e4a05215755343a7edf09f88b7f8411f51a337fc.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_eb6a1dd82baf07d0a656ee11494ccb18bb616589.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_eb6a1dd82baf07d0a656ee11494ccb18bb616589.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_ecd7d26a77b12370b1d10b67b44aac39ccbd16fa.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_ecd7d26a77b12370b1d10b67b44aac39ccbd16fa.1920x1080.jpg?t=1555353471"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_f4ca12393ef7feed2cfc2ae3571486a02363e4f3.600x338.jpg?t=1555353471",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/904450/ss_f4ca12393ef7feed2cfc2ae3571486a02363e4f3.1920x1080.jpg?t=1555353471"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256722602,
+      "name": "Port Valley - [The competent DEMO] Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256722602/movie.293x165.jpg?t=1551542864",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256722602/movie480.webm?t=1551542864",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256722602/movie_max.webm?t=1551542864"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "2020"
+  },
+  "support_info": {
+    "url": "",
+    "email": "contact@portvalleygame.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/904450/page_bg_generated_v6b.jpg?t=1555353471",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

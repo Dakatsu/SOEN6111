@@ -1,0 +1,179 @@
+{
+  "type": "game",
+  "name": "Penguins Cretins",
+  "steam_appid": 490990,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "...",
+  "about_the_game": "...",
+  "short_description": "...",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/490990/header.jpg?t=1554224524",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Dual core CPU @2GHz (Pentium D or better)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 2GB Video RAM - will work with less, but wouldn't look too good.<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> 100% DirectX 9.0c compatible audio device<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard, Joystick</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> MacOS X 10.6.6 or higher<br></li><li><strong>Processor:</strong> 2.4 GHz Intel Core 2 Duo (Dual-Core)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 2600 / NVidia Geforce 8800 / Intel HD 4000 or better<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard, Joystick</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> Dual core from Intel or AMD at 2.8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1<br></li><li><strong>Sound Card:</strong> OpenAL Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard, Joystick</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "developers": [
+    "HFM Games"
+  ],
+  "publishers": [
+    "HFM Games"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
+  },
+  "packages": [
+    111169
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Penguins Cretins",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 111169,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Aiball - 1,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "29",
+      "description": "Massively Multiplayer"
+    },
+    {
+      "id": "9",
+      "description": "Racing"
+    },
+    {
+      "id": "18",
+      "description": "Sports"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_96b38ccdca5de160d898bd618f0fc8d6dd7738b7.600x338.jpg?t=1554224524",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_96b38ccdca5de160d898bd618f0fc8d6dd7738b7.1920x1080.jpg?t=1554224524"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_8f2695d45a8287444913083defdd4b0dbd135169.600x338.jpg?t=1554224524",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_8f2695d45a8287444913083defdd4b0dbd135169.1920x1080.jpg?t=1554224524"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_39e90f5bbce6d0c9d75b9f18bc61e8c0ab06f65f.600x338.jpg?t=1554224524",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_39e90f5bbce6d0c9d75b9f18bc61e8c0ab06f65f.1920x1080.jpg?t=1554224524"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_991fd097e0919ecf3f3877309b308da728c52470.600x338.jpg?t=1554224524",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_991fd097e0919ecf3f3877309b308da728c52470.1920x1080.jpg?t=1554224524"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_b3a506475dde1a723bafca3c2347e80761872de4.600x338.jpg?t=1554224524",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_b3a506475dde1a723bafca3c2347e80761872de4.1920x1080.jpg?t=1554224524"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_bde5cc7a80b7d82e039980883f79ad17b3a1f6de.600x338.jpg?t=1554224524",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_bde5cc7a80b7d82e039980883f79ad17b3a1f6de.1920x1080.jpg?t=1554224524"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_fdbc67d8f141296a3426099568769057bbfbae19.600x338.jpg?t=1554224524",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490990/ss_fdbc67d8f141296a3426099568769057bbfbae19.1920x1080.jpg?t=1554224524"
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "22 Jun, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "support@hfmgames.net"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490990/page_bg_generated_v6b.jpg?t=1554224524",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

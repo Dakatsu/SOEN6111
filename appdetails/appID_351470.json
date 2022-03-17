@@ -1,0 +1,169 @@
+{
+  "type": "game",
+  "name": "Sometimes: Success Requires Sacrifice",
+  "steam_appid": 351470,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Sometimes: Success Requires Sacrifice, the title says it all! You get thrown into a dark room, with no light to be found anywhere! Are you willing to end your life to light the way for the next generation to proceed further? Play it today and find out!<br />\r\n<br />\r\nSometimes features a classic mode, as well as several minigames to keep you entertained! Several in-game achievements and a statistics tracker will accompany you throughout your journey so that you can see how sacrificial you have been.",
+  "about_the_game": "Sometimes: Success Requires Sacrifice, the title says it all! You get thrown into a dark room, with no light to be found anywhere! Are you willing to end your life to light the way for the next generation to proceed further? Play it today and find out!<br />\r\n<br />\r\nSometimes features a classic mode, as well as several minigames to keep you entertained! Several in-game achievements and a statistics tracker will accompany you throughout your journey so that you can see how sacrificial you have been.",
+  "short_description": "Sometimes: Success Requires Sacrifice, the title says it all! You get thrown into a dark room, with no light to be found anywhere! Are you willing to end your life to light the way for the next generation to proceed further? Play it today and find out!",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "reviews": "\u201cThis game is amazing come and try out its amazing mechanics!\u201d<br>10/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.desura.com/games/sometimes/reviews\" target=\"_blank\" rel=\"noopener\"  >DodgerDog</a><br><br>\u201cYou will die, you will respawn, you WON'T regret buying this game!\u201d<br><a href=\"http://steamcommunity.com/id/RedBarkGaming\" target=\"_blank\" rel=\"noreferrer\"  >RedBarkGaming</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/351470/header.jpg?t=1447369439",
+  "website": "http://nodzigames.wix.com/store",
+  "pc_requirements": {
+    "minimum": "<strong>\u6700\u4f4e\u914d\u5099:</strong><br><ul class=\"bb_ul\"><li><strong>\u4f5c\u696d\u7cfb\u7d71:</strong> Windows XP/7/8<br></li><li><strong>\u8655\u7406\u5668:</strong> Single Core 2.6 GHZ<br></li><li><strong>\u8a18\u61b6\u9ad4:</strong> 256 MB \u8a18\u61b6\u9ad4<br></li><li><strong>\u986f\u793a\u5361:</strong> Integrated Graphics<br></li><li><strong>DirectX:</strong> \u7248\u672c\uff1a8.0<br></li><li><strong>\u5132\u5b58\u7a7a\u9593:</strong> 200 MB \u53ef\u7528\u7a7a\u9593<br></li><li><strong>\u97f3\u6548\u5361:</strong> On Board Sound Card</li></ul>",
+    "recommended": "<strong>\u5efa\u8b70\u914d\u5099:</strong><br><ul class=\"bb_ul\"><li><strong>\u4f5c\u696d\u7cfb\u7d71:</strong> Windows XP/7/8<br></li><li><strong>\u8655\u7406\u5668:</strong> Dual Core 2.6GHZ<br></li><li><strong>\u8a18\u61b6\u9ad4:</strong> 512 MB \u8a18\u61b6\u9ad4<br></li><li><strong>\u986f\u793a\u5361:</strong> Integrated Graphics<br></li><li><strong>DirectX:</strong> \u7248\u672c\uff1a8.0<br></li><li><strong>\u5132\u5b58\u7a7a\u9593:</strong> 400 MB \u53ef\u7528\u7a7a\u9593<br></li><li><strong>\u97f3\u6548\u5361:</strong> On Board Sound Card</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "NodziGames"
+  ],
+  "publishers": [
+    "NodziGames"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
+  },
+  "packages": [
+    61106
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Sometimes: Success Requires Sacrifice",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 61106,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Sometimes: Success Requires Sacrifice - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_a2cbf429ee6338da5de04674b5f3763e50299393.600x338.jpg?t=1447369439",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_a2cbf429ee6338da5de04674b5f3763e50299393.1920x1080.jpg?t=1447369439"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_c7b082ab732edabbc3c3198553c2d3c65c1a06ee.600x338.jpg?t=1447369439",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_c7b082ab732edabbc3c3198553c2d3c65c1a06ee.1920x1080.jpg?t=1447369439"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_00f6f2cf9c5de33038e7ae2c1c3d2c41fb64f6a7.600x338.jpg?t=1447369439",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_00f6f2cf9c5de33038e7ae2c1c3d2c41fb64f6a7.1920x1080.jpg?t=1447369439"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_1dcdf73a5c6f941cde57d036cdd1b104915a41e3.600x338.jpg?t=1447369439",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_1dcdf73a5c6f941cde57d036cdd1b104915a41e3.1920x1080.jpg?t=1447369439"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_177fa30efcdbf6d507f77029cfe76737dddd6ee5.600x338.jpg?t=1447369439",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_177fa30efcdbf6d507f77029cfe76737dddd6ee5.1920x1080.jpg?t=1447369439"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_62b6c62d76047f4c4d01b921c8325b22b573576d.600x338.jpg?t=1447369439",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_62b6c62d76047f4c4d01b921c8325b22b573576d.1920x1080.jpg?t=1447369439"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_970c1d10aba11861a792a1076c38782924e16722.600x338.jpg?t=1447369439",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351470/ss_970c1d10aba11861a792a1076c38782924e16722.1920x1080.jpg?t=1447369439"
+    }
+  ],
+  "movies": [
+    {
+      "id": 2037309,
+      "name": "Trailer For Sometimes",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2037309/movie.293x165.jpg?t=1447369525",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2037309/movie480.webm?t=1447369525",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2037309/movie_max.webm?t=1447369525"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 131
+  },
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "27 Feb, 2015"
+  },
+  "support_info": {
+    "url": "http://nodzigames.wix.com/store#!contact/cyua",
+    "email": "nodzigames@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351470/page_bg_generated_v6b.jpg?t=1447369439",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

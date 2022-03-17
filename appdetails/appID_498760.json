@@ -1,0 +1,170 @@
+{
+  "type": "dlc",
+  "name": "Blood and Gold Soundtrack",
+  "steam_appid": 498760,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Distract yourself with blissful thoughts of the Caribbean Sea to your favorite tracks from Blood &amp; Gold soundtrack.<br />\r\n<br />\r\nIn memory of Vladimir Kochetkov.<br />\r\n<br />\r\nAll tracks included are in MP3 format.<br />\r\n<br />\r\nTracklist:<br />\r\n<br />\r\n1. Daniil Belov - Battle theme 1<br />\r\n2. Vladimir Kochetkov - Battle theme 2 (aka &quot;Drunken Sailor&quot;)<br />\r\n3. Vladimir Kochetkov - Battle theme 3 (aka &quot;Drunken Sailor&quot; - instrumental)<br />\r\n4. Sergey Gdanyan - City<br />\r\n5. Daniil Belov - Latino<br />\r\n6. Martin Cap - The Sea, The Ship and The Sailor<br />\r\n7. Martin Cap - Sea battle<br />\r\n8. Sergey Gdanyan - Tavern<br />\r\n9. Vasily Kashnikov - Sea ambient<br />\r\n<br />\r\nSongs will be placed in your Blood &amp; Gold folder in the Steam Directory: ...Steam\\steamapps\\common\\Blood &amp; Gold Caribbean!\\Blood &amp; Gold - Soundtrack",
+  "about_the_game": "Distract yourself with blissful thoughts of the Caribbean Sea to your favorite tracks from Blood &amp; Gold soundtrack.<br />\r\n<br />\r\nIn memory of Vladimir Kochetkov.<br />\r\n<br />\r\nAll tracks included are in MP3 format.<br />\r\n<br />\r\nTracklist:<br />\r\n<br />\r\n1. Daniil Belov - Battle theme 1<br />\r\n2. Vladimir Kochetkov - Battle theme 2 (aka &quot;Drunken Sailor&quot;)<br />\r\n3. Vladimir Kochetkov - Battle theme 3 (aka &quot;Drunken Sailor&quot; - instrumental)<br />\r\n4. Sergey Gdanyan - City<br />\r\n5. Daniil Belov - Latino<br />\r\n6. Martin Cap - The Sea, The Ship and The Sailor<br />\r\n7. Martin Cap - Sea battle<br />\r\n8. Sergey Gdanyan - Tavern<br />\r\n9. Vasily Kashnikov - Sea ambient<br />\r\n<br />\r\nSongs will be placed in your Blood &amp; Gold folder in the Steam Directory: ...Steam\\steamapps\\common\\Blood &amp; Gold Caribbean!\\Blood &amp; Gold - Soundtrack",
+  "short_description": "Distract yourself with blissful thoughts of the Caribbean Sea to your favorite tracks from Blood &amp; Gold soundtrack.",
+  "fullgame": {
+    "appid": "413710",
+    "name": "Blood and Gold: Caribbean!"
+  },
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/498760/header.jpg?t=1497622704",
+  "website": "http://snowbirdgames.com/blog/",
+  "pc_requirements": {
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows Vista 64 bit, Windows 7 64 bit, Windows 8 64 bit<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel Core Duo 2.0 GHz or AMD Athlon 64 X2 3600+<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> NVIDIA GTX 295 or AMD HD 4870<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 9.0c<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 2 GB<br></li><li><strong>\u0417\u0432\u0443\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u0430:</strong> Direct X-compatible sound card</li></ul>",
+    "recommended": "<strong>\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows Vista 64 bit, Windows 7 64 bit, Windows 8 64 bit<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel Core i5 2.5 GHz or better, AMD A8 2.5 Ghz or better<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> NVIDIA GTX 560 or better, AMD Radeon R7 260X or better<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 4 GB<br></li><li><strong>\u0417\u0432\u0443\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u0430:</strong> Direct X-compatible sound card</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Snowbird Games"
+  ],
+  "publishers": [
+    "Snowbird Games"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
+  },
+  "packages": [
+    114087
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Blood and Gold Soundtrack",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 114087,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Blood & Gold OST - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 21,
+      "description": "Downloadable Content"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_42b59cee34cbe9aa8150381cbd910e8cbd967e60.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_42b59cee34cbe9aa8150381cbd910e8cbd967e60.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_1146eca142214c35abd1a8e4c406bb5a1ef4afba.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_1146eca142214c35abd1a8e4c406bb5a1ef4afba.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_851152858b7a862786b7cc1bc3f2447010731f69.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_851152858b7a862786b7cc1bc3f2447010731f69.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_0dbe19b3fcbf12aa4991ea803062ce63b4c166c2.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_0dbe19b3fcbf12aa4991ea803062ce63b4c166c2.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_899674a22f71568e65e32cd7846cd9f26d1b59ea.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_899674a22f71568e65e32cd7846cd9f26d1b59ea.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_2120ad03c136f058c399b8ff0a53202c7c3dcac1.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_2120ad03c136f058c399b8ff0a53202c7c3dcac1.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_02c805095d2b863f4520710700fc8f557437e470.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_02c805095d2b863f4520710700fc8f557437e470.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_cbed2d170d66b395edc9ca92a8a6c1a9b39d78d7.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_cbed2d170d66b395edc9ca92a8a6c1a9b39d78d7.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_7f9d95e55945c795da433d287eca252d8ed3b92a.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_7f9d95e55945c795da433d287eca252d8ed3b92a.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_15251f3b9c91482e31f265a2e2cc44a18cae79f7.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_15251f3b9c91482e31f265a2e2cc44a18cae79f7.1920x1080.jpg?t=1497622704"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_dd41024a56d591a44161abb11deeabbb0f2c1499.600x338.jpg?t=1497622704",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/498760/ss_dd41024a56d591a44161abb11deeabbb0f2c1499.1920x1080.jpg?t=1497622704"
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "15 Sep, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "support@snowbirdgames.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498760/page_bg_generated_v6b.jpg?t=1497622704",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}
