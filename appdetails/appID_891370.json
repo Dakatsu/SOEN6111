@@ -1,0 +1,130 @@
+{
+  "type": "game",
+  "name": "The Last Hex",
+  "steam_appid": 891370,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>11 total classes with individual decks, starting equipment and powers<br></li><li> ~350 playable cards that change with your stats<br></li><li>7 equipment slots to fill that can change the course of your run<br></li><li>~70 events that could help or hinder you<br></li><li>56 monsters with all different decks and unique characteristics <br></li><li>Procedural hex map showing all events and towns<br></li><li>Unlockable progression as you play. Including classes, cards, equipment, events and monsters.</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/891370/extras/Untitled-2.gif?t=1555358896\" ><h2 class=\"bb_tag\">Cards based off character stats</h2>The cards in your deck are affected by your stats. Each card has its own formula which uses your stats to determine how powerful the effect is. To raise your stats you must equip yourself with items and you will also have chances to gain stats via events. Some cards are stronger at the start of a run but fall off in effect later on, while others grow exponentially through your run. <strong>How will you build your deck?</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/891370/extras/map.png?t=1555358896\" ><h2 class=\"bb_tag\">Procedural maps</h2>Every time a new run is started a random map is generated, containing random terrain types, enemy camps, random events and cities with their own exhaustible shops. AS you make your way through the map monsters will grow in difficulty and you will find rare cards and equipment. However, as you explore, The Lost will slowly take over the map destroying cities and events in its wake. Exploration makes you stronger, but as the dead spreads it serves to empower your foe. <strong>What path will you take to destroy The Lost?</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/891370/extras/enemies.png?t=1555358896\" ><h2 class=\"bb_tag\">Giving data to the player</h2>We want to give players the best chance of survival, so we gave them access to quite a bit of information. Including:<br><ul class=\"bb_ul\"><li>Each unique monster has a set custom deck. Learn what effects and cards a monster has to figure out the best strategy to defeat them.<br></li><li>Players can see the entire map from the start. See all terrain types, all cities and even all the events to optimize your route to ensure your success. <br></li><li>Each event presents a series of choices, each with set outcomes. Learn when certain choices make sense, and when they should be avoided through experience.<br></li><li>A codex of all the items, monsters,and cards you have come across</li></ul>",
+  "about_the_game": "<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>11 total classes with individual decks, starting equipment and powers<br></li><li> ~350 playable cards that change with your stats<br></li><li>7 equipment slots to fill that can change the course of your run<br></li><li>~70 events that could help or hinder you<br></li><li>56 monsters with all different decks and unique characteristics <br></li><li>Procedural hex map showing all events and towns<br></li><li>Unlockable progression as you play. Including classes, cards, equipment, events and monsters.</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/891370/extras/Untitled-2.gif?t=1555358896\" ><h2 class=\"bb_tag\">Cards based off character stats</h2>The cards in your deck are affected by your stats. Each card has its own formula which uses your stats to determine how powerful the effect is. To raise your stats you must equip yourself with items and you will also have chances to gain stats via events. Some cards are stronger at the start of a run but fall off in effect later on, while others grow exponentially through your run. <strong>How will you build your deck?</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/891370/extras/map.png?t=1555358896\" ><h2 class=\"bb_tag\">Procedural maps</h2>Every time a new run is started a random map is generated, containing random terrain types, enemy camps, random events and cities with their own exhaustible shops. AS you make your way through the map monsters will grow in difficulty and you will find rare cards and equipment. However, as you explore, The Lost will slowly take over the map destroying cities and events in its wake. Exploration makes you stronger, but as the dead spreads it serves to empower your foe. <strong>What path will you take to destroy The Lost?</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/891370/extras/enemies.png?t=1555358896\" ><h2 class=\"bb_tag\">Giving data to the player</h2>We want to give players the best chance of survival, so we gave them access to quite a bit of information. Including:<br><ul class=\"bb_ul\"><li>Each unique monster has a set custom deck. Learn what effects and cards a monster has to figure out the best strategy to defeat them.<br></li><li>Players can see the entire map from the start. See all terrain types, all cities and even all the events to optimize your route to ensure your success. <br></li><li>Each event presents a series of choices, each with set outcomes. Learn when certain choices make sense, and when they should be avoided through experience.<br></li><li>A codex of all the items, monsters,and cards you have come across</li></ul>",
+  "short_description": "A deck-building RPG with roguelike elements. The dead arise and only you can stand against them. Travel the lands to slay monsters, acquire new cards, survive dangerous encounters and claim powerful equipment to enhance your deck. A final showdown with The Lost awaits you at...The Last Hex!",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/891370/header.jpg?t=1555358896",
+  "website": "http://thelasthex.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> 1.6ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 256mb Video Memory<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "That Indie Studio"
+  ],
+  "publishers": [
+    "That Indie Studio"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_24f050256a079aaf793892fdf89eaeed51c591f6.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_24f050256a079aaf793892fdf89eaeed51c591f6.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_c276729f5e2f62b44fad748e9ec5e1093a4f9095.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_c276729f5e2f62b44fad748e9ec5e1093a4f9095.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_d72f18ddd7f8f76d35f427e405c79c218e345509.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_d72f18ddd7f8f76d35f427e405c79c218e345509.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_60dee818edaa29329b0063f4d50f6ec5c30dd9a0.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_60dee818edaa29329b0063f4d50f6ec5c30dd9a0.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_ec48d6a2f1e6e1153b720cc9859c7dbd74f0b8e1.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_ec48d6a2f1e6e1153b720cc9859c7dbd74f0b8e1.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_aacbff632001fd1f34f9738862817c23bc2a7337.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_aacbff632001fd1f34f9738862817c23bc2a7337.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_fdd8f7859dea206901ba60af98bfb0d1d91f8c6f.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_fdd8f7859dea206901ba60af98bfb0d1d91f8c6f.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_8a1270d85f5e1e7ca38913d5753c7c48927fcd20.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_8a1270d85f5e1e7ca38913d5753c7c48927fcd20.1920x1080.jpg?t=1555358896"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_836eb491597b7ff2050d9882034322b4ddde67cb.600x338.jpg?t=1555358896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/891370/ss_836eb491597b7ff2050d9882034322b4ddde67cb.1920x1080.jpg?t=1555358896"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256736003,
+      "name": "The Last Hex Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256736003/movie.293x165.jpg?t=1554565305",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256736003/movie480.webm?t=1554565305",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256736003/movie_max.webm?t=1554565305"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "May 10, 2019"
+  },
+  "support_info": {
+    "url": "http://thatindiestudio.com",
+    "email": "luigi@thatindiestudio.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/891370/page_bg_generated_v6b.jpg?t=1555358896",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

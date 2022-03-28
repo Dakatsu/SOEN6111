@@ -1,0 +1,86 @@
+{
+  "type": "game",
+  "name": "Farm Keeper",
+  "steam_appid": 963560,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "",
+  "about_the_game": "",
+  "short_description": "You inherit a farm from your mom and dad in a small town Village away from the city",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/963560/header.jpg?t=1552856128",
+  "website": "http://www.dreadnoughtentertainment.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> windows 10<br></li><li><strong>Processor:</strong> Information pending<br></li><li><strong>Graphics:</strong> Information pending<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> Information pending MB available space<br></li><li><strong>Sound Card:</strong> Information pending<br></li><li><strong>Additional Notes:</strong> Information is subject to change</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> windows 10<br></li><li><strong>Processor:</strong> Information pending<br></li><li><strong>Graphics:</strong> Information pending<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> Information pending MB available space<br></li><li><strong>Sound Card:</strong> Information pending<br></li><li><strong>Additional Notes:</strong> Information is subject to change</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "developers": [
+    "Dreadnought Entertainment"
+  ],
+  "publishers": [
+    "Dreadnought Entertainment"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "Dec 2019"
+  },
+  "support_info": {
+    "url": "http://www.dreadnoughtentertainment.com",
+    "email": "dreadnoughtentertainment7@gmail.com"
+  },
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

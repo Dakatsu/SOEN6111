@@ -1,0 +1,112 @@
+{
+  "type": "video",
+  "name": "Maz Jobrani: Brown and Friendly",
+  "steam_appid": 533520,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Comedian Maz Jobrani showcases his brilliant and laugh-out-loud talents in his first solo stand-up comedy special.  Shot in Hollywood, CA Maz draws from his own experiences to bring the house down with laughter as he tackles topics on politics, race and religion, and hilariously breaks down stereotypes about the Middle East. Includes a special guest appearance by none other than former WWF champ, The Iron Sheik.",
+  "about_the_game": "Comedian Maz Jobrani showcases his brilliant and laugh-out-loud talents in his first solo stand-up comedy special.  Shot in Hollywood, CA Maz draws from his own experiences to bring the house down with laughter as he tackles topics on politics, race and religion, and hilariously breaks down stereotypes about the Middle East. Includes a special guest appearance by none other than former WWF champ, The Iron Sheik.",
+  "short_description": "Maz Jobrani showcases his brilliant and laugh-out-loud talents in his first solo stand-up comedy special. Maz draws from his own experiences to bring the house down with laughter as he tackles topics on politics, race and religion, and hilariously breaks down stereotypes about the Middle East.",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/533520/header.jpg?t=1551385747",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.10+<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "legal_notice": "\u00a9 2009 Salient Media",
+  "developers": [
+    "Salient Media"
+  ],
+  "publishers": [
+    "Salient Media"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 33,
+      "description": "Native Steam Controller Support"
+    },
+    {
+      "id": 13,
+      "description": "Captions available"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_6296252605d3b3f67be5573439abd2e0b9001145.600x338.jpg?t=1551385747",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_6296252605d3b3f67be5573439abd2e0b9001145.1920x1080.jpg?t=1551385747"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_cd1da50c3bd047395cd44c89a26719d3c7d48cb7.600x338.jpg?t=1551385747",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_cd1da50c3bd047395cd44c89a26719d3c7d48cb7.1920x1080.jpg?t=1551385747"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_193e2cc3f9e5b6a4b65e9801cb67be8c54e0617f.600x338.jpg?t=1551385747",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_193e2cc3f9e5b6a4b65e9801cb67be8c54e0617f.1920x1080.jpg?t=1551385747"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_4cc853b53ba90f7a00b03c65c4f1d40bdd2725d0.600x338.jpg?t=1551385747",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_4cc853b53ba90f7a00b03c65c4f1d40bdd2725d0.1920x1080.jpg?t=1551385747"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_31c388b5cfda201031c60ec97c4c88aadb9d5fa2.600x338.jpg?t=1551385747",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/533520/ss_31c388b5cfda201031c60ec97c4c88aadb9d5fa2.1920x1080.jpg?t=1551385747"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256671087,
+      "name": "Maz Jobrani: Brown and Friendly - Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256671087/movie.293x165.jpg?t=1474996076",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256671087/movie480.webm?t=1474996076",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256671087/movie_max.webm?t=1474996076"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "27 Sep, 2016"
+  },
+  "support_info": {
+    "url": "http://salientmedia.com/",
+    "email": "info@salientmedia.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533520/page_bg_generated_v6b.jpg?t=1551385747",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

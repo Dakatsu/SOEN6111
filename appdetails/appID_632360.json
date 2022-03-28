@@ -1,0 +1,215 @@
+{
+  "type": "game",
+  "name": "Risk of Rain 2",
+  "steam_appid": 632360,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/Impact_gifprevid_643.gif?t=1555365774\" ><br><br><strong><u>Co-op roguelike action</u></strong><br>The classic multiplayer roguelike, Risk of Rain, returns with an extra dimension and more challenging action. No run will ever be the same with randomized stages, enemies, bosses, and items. Play solo, or team up with up to four friends to fight your way through hordes of monsters, unlock new loot, and find a way to escape the planet.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/magmaworm_643.gif?t=1555365774\" ><br><br><strong><u>Constant battles and incredible bosses</u></strong><br>With each run, you'll learn the patterns of your foes, and even the longest odds can be overcome with enough skill. A unique scaling system means both you and your foes limitlessly increase in power over the course of a game--what once was a bossfight will in time become a common enemy.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/playechoice4_643.gif?t=1555365774\" ><br><br><strong><u>Old favorites return and undiscovered challenges await</u></strong><br>Myriad survivors, items, enemies, and bosses return to Risk 2, and many new ones are joining the fight. Brand new survivors like the Artificer and MUL-T debut alongside classic survivors such as the Engineer, Huntress, and--of course--the Commando. With over 75 items to unlock and exploit, each run will keep you cleverly strategizing your way out of sticky situations.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/SteamQuoteBanner.png?t=1555365774\" ><h2 class=\"bb_tag\"><strong><u>Key Features</u></strong></h2><ul class=\"bb_ul\"><li>Play four player co-op seamlessly through Steam \u2014 no more port forwarding<br></li><li>Unlock over 75 items over time, keeping each run fresh and full of new challenges<br></li><li>Play and unlock new and returning survivors, each with their own abilities to master<br></li><li>Theorycraft and exploit endless item and character combos<br></li><li>Encounter challenging monsters and enormous bosses<br></li><li>Explore massive, handcrafted 3D levels<br></li><li>Discover lore through the collection of Monster, Item, and Environment Logs<br></li><li>Challenge your friends\u2014and the world\u2014in all-new Prismatic Trials, a unique seeded run where everyone can race up a global leaderboard<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/SteamDiscordBanner_2.png?t=1555365774\" ></li></ul>",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/Impact_gifprevid_643.gif?t=1555365774\" ><br><br><strong><u>Co-op roguelike action</u></strong><br>The classic multiplayer roguelike, Risk of Rain, returns with an extra dimension and more challenging action. No run will ever be the same with randomized stages, enemies, bosses, and items. Play solo, or team up with up to four friends to fight your way through hordes of monsters, unlock new loot, and find a way to escape the planet.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/magmaworm_643.gif?t=1555365774\" ><br><br><strong><u>Constant battles and incredible bosses</u></strong><br>With each run, you'll learn the patterns of your foes, and even the longest odds can be overcome with enough skill. A unique scaling system means both you and your foes limitlessly increase in power over the course of a game--what once was a bossfight will in time become a common enemy.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/playechoice4_643.gif?t=1555365774\" ><br><br><strong><u>Old favorites return and undiscovered challenges await</u></strong><br>Myriad survivors, items, enemies, and bosses return to Risk 2, and many new ones are joining the fight. Brand new survivors like the Artificer and MUL-T debut alongside classic survivors such as the Engineer, Huntress, and--of course--the Commando. With over 75 items to unlock and exploit, each run will keep you cleverly strategizing your way out of sticky situations.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/SteamQuoteBanner.png?t=1555365774\" ><h2 class=\"bb_tag\"><strong><u>Key Features</u></strong></h2><ul class=\"bb_ul\"><li>Play four player co-op seamlessly through Steam \u2014 no more port forwarding<br></li><li>Unlock over 75 items over time, keeping each run fresh and full of new challenges<br></li><li>Play and unlock new and returning survivors, each with their own abilities to master<br></li><li>Theorycraft and exploit endless item and character combos<br></li><li>Encounter challenging monsters and enormous bosses<br></li><li>Explore massive, handcrafted 3D levels<br></li><li>Discover lore through the collection of Monster, Item, and Environment Logs<br></li><li>Challenge your friends\u2014and the world\u2014in all-new Prismatic Trials, a unique seeded run where everyone can race up a global leaderboard<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/632360/extras/SteamDiscordBanner_2.png?t=1555365774\" ></li></ul>",
+  "short_description": "The classic multiplayer roguelike, Risk of Rain, returns with an extra dimension and more challenging action. Play solo, or team up with up to three friends to fight your way through hordes of monsters, unlock new loot, and find a way to escape the planet.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/632360/header.jpg?t=1555365774",
+  "website": "https://www.riskofrain.com/",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-6100 / AMD FX-8350<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 580 / AMD HD 7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> Risk of Rain 2 is an Early Access game, and the minimum specifications may change during development.</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-4670K / AMD Ryzen 5 1500X<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 680 / AMD HD 7970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> Risk of Rain 2 is an Early Access game, and the recommended specifications may change during development.</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "legal_notice": "\u00a9 Copyright Hopoo Games, LLC 2012 - 2019",
+  "developers": [
+    "Hopoo Games"
+  ],
+  "publishers": [
+    "Gearbox Publishing"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 1799,
+    "final": 1799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "17,99\u20ac"
+  },
+  "packages": [
+    172271
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Risk of Rain 2",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 172271,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Risk of Rain 2 - 17,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1799
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    },
+    {
+      "id": 25,
+      "description": "Steam Leaderboards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_76082d1683ec86903a7f071181c89ccaf78b857d.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_76082d1683ec86903a7f071181c89ccaf78b857d.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_121003c290030ab310e1651a442609939141911e.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_121003c290030ab310e1651a442609939141911e.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_d93451e8534c512fcf15e1d8c7a02e2277807aa7.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_d93451e8534c512fcf15e1d8c7a02e2277807aa7.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_ebf09ff83af59cbf2735862d99085f43cf3515cc.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_ebf09ff83af59cbf2735862d99085f43cf3515cc.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_a8cc7f38532d4d05eb8cc825c2c23475aab01679.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_a8cc7f38532d4d05eb8cc825c2c23475aab01679.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_90f39234ba1a7073f07abc892a635373b55c884b.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_90f39234ba1a7073f07abc892a635373b55c884b.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_85548e86c50ff654c6a49235ea686a956f8ee9ec.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_85548e86c50ff654c6a49235ea686a956f8ee9ec.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_5d45a9bd9c2185cf67ab6b72651abcf0019261e1.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_5d45a9bd9c2185cf67ab6b72651abcf0019261e1.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_725d301ba2651921825d23f714a0c103877e03b3.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_725d301ba2651921825d23f714a0c103877e03b3.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_aece490dab1384513c7250df3043973ff396ff29.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_aece490dab1384513c7250df3043973ff396ff29.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_f25a60838e021cb214295f773fe7caca575792ea.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_f25a60838e021cb214295f773fe7caca575792ea.1920x1080.jpg?t=1555365774"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_c9cfce27cb143a075fcd468405c3b27855fc6427.600x338.jpg?t=1555365774",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_c9cfce27cb143a075fcd468405c3b27855fc6427.1920x1080.jpg?t=1555365774"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256746500,
+      "name": "Early Access Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746500/movie.293x165.jpg?t=1553803568",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746500/movie480.webm?t=1553803568",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746500/movie_max.webm?t=1553803568"
+      },
+      "highlight": true
+    },
+    {
+      "id": 256724787,
+      "name": "Risk of Rain 2 Teaser Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256724787/movie.293x165.jpg?t=1541782790",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256724787/movie480.webm?t=1541782790",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256724787/movie_max.webm?t=1541782790"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 11963
+  },
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "28 Mar, 2019"
+  },
+  "support_info": {
+    "url": "",
+    "email": "spacegame2012@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632360/page_bg_generated_v6b.jpg?t=1555365774",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

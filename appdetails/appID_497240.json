@@ -1,0 +1,134 @@
+{
+  "type": "game",
+  "name": "Pool of Death",
+  "steam_appid": 497240,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Pool of Death is a RPG style horror game, with humor! <br />\r\n<br />\r\nHave you ever wondered how musicians would do trying to hold their own in the zombie apocalypse? <br />\r\n<br />\r\nMeet Eddie, Leon and Sophie. Together, they find out how the apocalypse starts (and hopefully ends). They will have to scavenge for supplies and ammo to help them navigate through the streets of their home town, and eventually escape to safety. <br />\r\nAmmo is a very valuable asset. Will you sell your ammo in order to get mend your wounds? ...Will you depend on baseball bats and other melee weapons? ...or will you curl into the fetal position and pretend the world is all sunshine and rainbows?<br />\r\n<br />\r\nFeatures: <br />\r\n-Full length Original Soundtrack in the styles of Rock and Metal. <br />\r\n-A rich and detailed map filled with little easter eggs and surprises. <br />\r\n-An ammo system where you have to continually look for new ammo in order to use your weapons. <br />\r\n-Custom sprites that fit really well in the story. <br />\r\n-And much more!",
+  "about_the_game": "Pool of Death is a RPG style horror game, with humor! <br />\r\n<br />\r\nHave you ever wondered how musicians would do trying to hold their own in the zombie apocalypse? <br />\r\n<br />\r\nMeet Eddie, Leon and Sophie. Together, they find out how the apocalypse starts (and hopefully ends). They will have to scavenge for supplies and ammo to help them navigate through the streets of their home town, and eventually escape to safety. <br />\r\nAmmo is a very valuable asset. Will you sell your ammo in order to get mend your wounds? ...Will you depend on baseball bats and other melee weapons? ...or will you curl into the fetal position and pretend the world is all sunshine and rainbows?<br />\r\n<br />\r\nFeatures: <br />\r\n-Full length Original Soundtrack in the styles of Rock and Metal. <br />\r\n-A rich and detailed map filled with little easter eggs and surprises. <br />\r\n-An ammo system where you have to continually look for new ammo in order to use your weapons. <br />\r\n-Custom sprites that fit really well in the story. <br />\r\n-And much more!",
+  "short_description": "Pool of Death is a RPG style horror game with humor! Have you ever wondered how musicians would do hold their own in the zombie apocalypse?",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/497240/header.jpg?t=1555203373",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WindowsR 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Compatible OpenGLR</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "NedoStudio"
+  ],
+  "publishers": [
+    "NedoStudio"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 79,
+    "final": 39,
+    "discount_percent": 51,
+    "initial_formatted": "0,79\u20ac",
+    "final_formatted": "0,39\u20ac"
+  },
+  "packages": [
+    113536
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Pool of Death",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 113536,
+          "percent_savings_text": "-51%",
+          "percent_savings": 0,
+          "option_text": "Pool of Death - <span class=\"discount_original_price\">0,79\u20ac</span> 0,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 39
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "3",
+      "description": "RPG"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_af3711428eca0d06ec898a350549c18a49682b1d.600x338.jpg?t=1555203373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_af3711428eca0d06ec898a350549c18a49682b1d.1920x1080.jpg?t=1555203373"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_8493a77d4c9561c71a548a8d2e0ce19931712626.600x338.jpg?t=1555203373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_8493a77d4c9561c71a548a8d2e0ce19931712626.1920x1080.jpg?t=1555203373"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_1866fd085ee73cd117713eaf6fb4eaee6b449251.600x338.jpg?t=1555203373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_1866fd085ee73cd117713eaf6fb4eaee6b449251.1920x1080.jpg?t=1555203373"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_a763443c2d31f2abcf152c6021f4dab1019482cd.600x338.jpg?t=1555203373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_a763443c2d31f2abcf152c6021f4dab1019482cd.1920x1080.jpg?t=1555203373"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_f932ddb84d1b2260a754f4aa267e03ca3200f6b8.600x338.jpg?t=1555203373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/497240/ss_f932ddb84d1b2260a754f4aa267e03ca3200f6b8.1920x1080.jpg?t=1555203373"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256747929,
+      "name": "poolofdeathbetatrailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747929/movie.293x165.jpg?t=1555203369",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747929/movie480.webm?t=1555203369",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747929/movie_max.webm?t=1555203369"
+      },
+      "highlight": false
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "9 Dec, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "nedostudiogames@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497240/page_bg_generated_v6b.jpg?t=1555203373",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

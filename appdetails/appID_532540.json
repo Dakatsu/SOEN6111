@@ -1,0 +1,112 @@
+{
+  "type": "video",
+  "name": "Speed & Angels",
+  "steam_appid": 532540,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This inspiring film follows the journey of two passionate Navy officers, Jay and Meagan, as they chase their childhood dream of becoming naval aviators flying the F-14 Tomcat. Thanks to unprecedented access granted by the Navy, Speed &amp; Angels is not only stunning with epic aerial footage and cockpit photography but also the most intimate portrait ever made about what its like to become a fighter pilot.",
+  "about_the_game": "This inspiring film follows the journey of two passionate Navy officers, Jay and Meagan, as they chase their childhood dream of becoming naval aviators flying the F-14 Tomcat. Thanks to unprecedented access granted by the Navy, Speed &amp; Angels is not only stunning with epic aerial footage and cockpit photography but also the most intimate portrait ever made about what its like to become a fighter pilot.",
+  "short_description": "This inspiring film follows the journey of two passionate Navy officers, Jay and Meagan, as they chase their childhood dream of becoming naval aviators flying the F-14 Tomcat. Thanks to unprecedented access granted by the Navy, Speed &amp; Angels is not only stunning with epic aerial footage and cockpit photography but also the most...",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/532540/header.jpg?t=1511997563",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.10+<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "legal_notice": "2007 Dogfight LLC",
+  "developers": [
+    "Spellbound Productions"
+  ],
+  "publishers": [
+    "Salient Media"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 33,
+      "description": "Native Steam Controller Support"
+    },
+    {
+      "id": 13,
+      "description": "Captions available"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_3bb1ec764d80799e1114e7731d8eca8bc3bf6c8a.600x338.jpg?t=1511997563",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_3bb1ec764d80799e1114e7731d8eca8bc3bf6c8a.1920x1080.jpg?t=1511997563"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_02a40f8761b86ee52270dfeea5625a46333a42b2.600x338.jpg?t=1511997563",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_02a40f8761b86ee52270dfeea5625a46333a42b2.1920x1080.jpg?t=1511997563"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_a680b95efd82893b0bf176872990338e625829c2.600x338.jpg?t=1511997563",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_a680b95efd82893b0bf176872990338e625829c2.1920x1080.jpg?t=1511997563"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_3f68fb9355ceaad891432236022e7ed701e1b2ce.600x338.jpg?t=1511997563",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_3f68fb9355ceaad891432236022e7ed701e1b2ce.1920x1080.jpg?t=1511997563"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_29774ca28ddda227491e67e4f33428a1623d3766.600x338.jpg?t=1511997563",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532540/ss_29774ca28ddda227491e67e4f33428a1623d3766.1920x1080.jpg?t=1511997563"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256671299,
+      "name": "Speed & Angels - Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256671299/movie.293x165.jpg?t=1475209767",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256671299/movie480.webm?t=1475209767",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256671299/movie_max.webm?t=1475209767"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "29 Sep, 2016"
+  },
+  "support_info": {
+    "url": "http://salientmedia.com/",
+    "email": "info@salientmedia.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532540/page_bg_generated_v6b.jpg?t=1511997563",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

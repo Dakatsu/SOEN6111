@@ -1,0 +1,209 @@
+{
+  "type": "game",
+  "name": "StarFence: Heroic Edition",
+  "steam_appid": 360750,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<h1>Special Offer</h1><p><a href=\"https://store.steampowered.com/app/672860/StellarHub/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/672860/StellarHub/</a></p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/360750/extras/StarFence--Steam-Gif.gif?t=1554888357\" ><br><br>Don\u2019t let the enemy destroy your space station. There is a swarm of heavily armed enemies and they won\u2019t retreat!<br>We have developed a unique idea which combines an original space shooter and the Tower Defense with the introduced strategic elements (arrangement of turrets, units and installations). The game has derived from the space shooter a fire control of the main units, a bright styling and an action. The Tower Defense is represented not by the typical TD with strictly determined paths of motion of the enemies, but as thought the enemies attack from all directions and you must allocate your units and select the upgrades in a proper manner to defend the base. The main feature of the game is in the fact that no matter how accurately you allocate the units, a gamer never wins without the proper actions and a sharp shooting during the game! <br>In total we have done everything to grant you with several hours of joy and the pleasure of victory. Don\u2019t count on the smooth and easy passage- the game has hardcore levels, too.<br><br><strong><h2 class=\"bb_tag\">Game features:</h2></strong><br><ul class=\"bb_ul\"><li>numerous units- turrets, ships, mines and more<br></li><li>the possibility to upgrade all units and installations<br></li><li>plenty of temporary combat improvements drop down from the destroyed enemy ships<br></li><li>interesting unconventional levels<br></li><li>mighty bosses<br></li><li>awesome sound and music<br></li><li>colourful graphics and elaborated models<br></li><li>22 achievements</li></ul>",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/360750/extras/StarFence--Steam-Gif.gif?t=1554888357\" ><br><br>Don\u2019t let the enemy destroy your space station. There is a swarm of heavily armed enemies and they won\u2019t retreat!<br>We have developed a unique idea which combines an original space shooter and the Tower Defense with the introduced strategic elements (arrangement of turrets, units and installations). The game has derived from the space shooter a fire control of the main units, a bright styling and an action. The Tower Defense is represented not by the typical TD with strictly determined paths of motion of the enemies, but as thought the enemies attack from all directions and you must allocate your units and select the upgrades in a proper manner to defend the base. The main feature of the game is in the fact that no matter how accurately you allocate the units, a gamer never wins without the proper actions and a sharp shooting during the game! <br>In total we have done everything to grant you with several hours of joy and the pleasure of victory. Don\u2019t count on the smooth and easy passage- the game has hardcore levels, too.<br><br><strong><h2 class=\"bb_tag\">Game features:</h2></strong><br><ul class=\"bb_ul\"><li>numerous units- turrets, ships, mines and more<br></li><li>the possibility to upgrade all units and installations<br></li><li>plenty of temporary combat improvements drop down from the destroyed enemy ships<br></li><li>interesting unconventional levels<br></li><li>mighty bosses<br></li><li>awesome sound and music<br></li><li>colourful graphics and elaborated models<br></li><li>22 achievements</li></ul>",
+  "short_description": "Epic battles in space. Protect your space station against the enemies in the hurricane space shooter.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/360750/header.jpg?t=1554888357",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minim\u00e1ln\u00ed:</strong><br><ul class=\"bb_ul\"><li><strong>Opera\u010dn\u00ed syst\u00e9m:</strong> XP/Vista/7/8<br></li><li><strong>Procesor:</strong> 1.4 Gz<br></li><li><strong>Pam\u011b\u0165:</strong> 1024 MB RAM<br></li><li><strong>Grafick\u00e1 karta:</strong> 256 Mb<br></li><li><strong>DirectX:</strong> Verze 9.0c<br></li><li><strong>Pevn\u00fd disk:</strong> 100 MB voln\u00e9ho m\u00edsta</li></ul>",
+    "recommended": "<strong>Doporu\u010den\u00e9:</strong><br><ul class=\"bb_ul\"><li><strong>Opera\u010dn\u00ed syst\u00e9m:</strong> XP/Vista/7/8<br></li><li><strong>Procesor:</strong> 2.0 Gz<br></li><li><strong>Pam\u011b\u0165:</strong> 2048 MB RAM<br></li><li><strong>Grafick\u00e1 karta:</strong> 512 Mb<br></li><li><strong>DirectX:</strong> Verze 9.0c<br></li><li><strong>Pevn\u00fd disk:</strong> 100 MB voln\u00e9ho m\u00edsta</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Casualogic"
+  ],
+  "publishers": [
+    "Droid Riot"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
+  },
+  "packages": [
+    64484
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy StarFence: Heroic Edition",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 64484,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "StarFence: Heroic Edition - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_764167d4d4242a26c9862bbb26e3248abfa3dbf8.600x338.jpg?t=1554888357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_764167d4d4242a26c9862bbb26e3248abfa3dbf8.1920x1080.jpg?t=1554888357"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_c58b40230e0877b5b178ad8f9044d266f2ab0d3a.600x338.jpg?t=1554888357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_c58b40230e0877b5b178ad8f9044d266f2ab0d3a.1920x1080.jpg?t=1554888357"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_53b4c4f8d0d6a8697f7c782faca723936da05a71.600x338.jpg?t=1554888357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_53b4c4f8d0d6a8697f7c782faca723936da05a71.1920x1080.jpg?t=1554888357"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_e11367db4bbd9d1bd44c34f98fa3e948f24728de.600x338.jpg?t=1554888357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_e11367db4bbd9d1bd44c34f98fa3e948f24728de.1920x1080.jpg?t=1554888357"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_c9558d29b2f14cb9c35fbf64538a6adb1953ab2b.600x338.jpg?t=1554888357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_c9558d29b2f14cb9c35fbf64538a6adb1953ab2b.1920x1080.jpg?t=1554888357"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_37806f8a961a32be2e30a09076c2688f1473d5cd.600x338.jpg?t=1554888357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_37806f8a961a32be2e30a09076c2688f1473d5cd.1920x1080.jpg?t=1554888357"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_88b95bdb3e894933b2d700b7e5450aabdb872d0c.600x338.jpg?t=1554888357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360750/ss_88b95bdb3e894933b2d700b7e5450aabdb872d0c.1920x1080.jpg?t=1554888357"
+    }
+  ],
+  "movies": [
+    {
+      "id": 2038173,
+      "name": "StarFence Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2038173/movie.293x165.jpg?t=1447371948",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2038173/movie480.webm?t=1447371948",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2038173/movie_max.webm?t=1447371948"
+      },
+      "highlight": true
+    },
+    {
+      "id": 2038174,
+      "name": "StarFence Gameplay",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2038174/movie.293x165.jpg?t=1447371951",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2038174/movie480.webm?t=1447371951",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2038174/movie_max.webm?t=1447371951"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 22,
+    "highlighted": [
+      {
+        "name": "Karanwar",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/87ef738d30d5f4c5caf35784af997d260325068e.jpg"
+      },
+      {
+        "name": "Krollmox",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/cce8c67d8b1a89cb6786422af66de5adc706ed41.jpg"
+      },
+      {
+        "name": "Faidarin",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/8c5278a0f0f6fa0d038abf4f6be764a8fb9bf0d1.jpg"
+      },
+      {
+        "name": "Ubere",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/e52d43e27b7fc4d14cd3c6830aca842b5e1e2912.jpg"
+      },
+      {
+        "name": "Seren",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/37a69bae0a4aca84e872d85d6d690fad7ec3daac.jpg"
+      },
+      {
+        "name": "Easy Winner",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/41e4a3904efa950f82fdb0801fdc5c3338521056.jpg"
+      },
+      {
+        "name": "Sniper",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/cc01cbf02c293fb3a50152d272a55678bc8fb11f.jpg"
+      },
+      {
+        "name": "Bloody Harvest",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/08a4508fb8fceb4091b35df3edba8c4ac2785921.jpg"
+      },
+      {
+        "name": "Sole Survivor",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/d147b35a792ada8a68d8911e108ee96ea8bcfa59.jpg"
+      },
+      {
+        "name": "Supercombo!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360750/bbd3cafa0382769a86d17b3865f705ad99d8fdc5.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "20 Apr, 2015"
+  },
+  "support_info": {
+    "url": "",
+    "email": "droidriotstudio@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/360750/page_bg_generated_v6b.jpg?t=1554888357",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

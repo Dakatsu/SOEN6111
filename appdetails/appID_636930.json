@@ -1,0 +1,157 @@
+{
+  "type": "game",
+  "name": "Soundscape VR",
+  "steam_appid": 636930,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "Soundscape VR is home of the most advanced visual arts and music experiences in virtual reality. Fly, explore, play, create, and immerse yourself in massive surreal worlds of breathtaking visuals - a bioluminescent forest coming to life at sunset, a crystalline mountaintop bathed in the aurora borealis, the center of the universe deep inside a shifting nebula. In each world, you'll discover incredible art - enormous sculptures, alien plant life, gorgeous landscapes, dazzling lights/lasers, as well as many other secrets that cannot even be described.<br />\r\n<br />\r\nFunctioning as a social metaverse and 24/7 VR music festival, meet up with friends and other music lovers face-to-face in audio-reactive worlds that the music brings to life. Choose between listening to sets from top artists like Big Gigantic and STS9, user-created mixes and synchronized playlists, or ANY music you can imagine in this mind-melting audio-visual feast for the senses.<br />\r\n<br />\r\nCustomize your avatar to reflect your digital persona while you chat, dance, and play \u201cface-to-face\u201d in public venues or private listening parties. Exploring the vast panorama and digital landscape of Soundscape VR reveals a virtual world unlike any other, full of imaginative art, impossible settings, and limitless ways to play. <br />\r\n<br />\r\nWe've partnered with festival favorite artists, some of the most talented acts on the planet, to deliver you and your friends music in the ultimate way. Jam, Funk, Hip-Hop, Bass, Indie, EDM, Chill, Psych Rock, and much, much more are all headed your way, with new releases happening regularly. <br />\r\n<br />\r\nSoundscape VR includes a multiplayer rhythm game where you can shoot and slice their way through the interactive venues to your favorite songs, competing against up to 8 players at a time to see who can cause the most destruction. There are no beatmaps to be made, no limited songs to choose from, you can play any music you want from Beethoven to Skrillex and everything works automatically!<br />\r\n<br />\r\nIn a world where unsavory tech companies are increasingly using you as a product, we feel compelled to mention that even though Soundscape VR is free, we do not sell any of your data, period. We're extremely focused on user privacy, and are honored that you're here with us to enjoy this music revolution.  Be sure to check out our Discord at https://discord.gg/8cfHAEb to join in with the Soundscape music community and discover new music and friends every day, and for all the latest news and updates about new artist releases.",
+  "about_the_game": "Soundscape VR is home of the most advanced visual arts and music experiences in virtual reality. Fly, explore, play, create, and immerse yourself in massive surreal worlds of breathtaking visuals - a bioluminescent forest coming to life at sunset, a crystalline mountaintop bathed in the aurora borealis, the center of the universe deep inside a shifting nebula. In each world, you'll discover incredible art - enormous sculptures, alien plant life, gorgeous landscapes, dazzling lights/lasers, as well as many other secrets that cannot even be described.<br />\r\n<br />\r\nFunctioning as a social metaverse and 24/7 VR music festival, meet up with friends and other music lovers face-to-face in audio-reactive worlds that the music brings to life. Choose between listening to sets from top artists like Big Gigantic and STS9, user-created mixes and synchronized playlists, or ANY music you can imagine in this mind-melting audio-visual feast for the senses.<br />\r\n<br />\r\nCustomize your avatar to reflect your digital persona while you chat, dance, and play \u201cface-to-face\u201d in public venues or private listening parties. Exploring the vast panorama and digital landscape of Soundscape VR reveals a virtual world unlike any other, full of imaginative art, impossible settings, and limitless ways to play. <br />\r\n<br />\r\nWe've partnered with festival favorite artists, some of the most talented acts on the planet, to deliver you and your friends music in the ultimate way. Jam, Funk, Hip-Hop, Bass, Indie, EDM, Chill, Psych Rock, and much, much more are all headed your way, with new releases happening regularly. <br />\r\n<br />\r\nSoundscape VR includes a multiplayer rhythm game where you can shoot and slice their way through the interactive venues to your favorite songs, competing against up to 8 players at a time to see who can cause the most destruction. There are no beatmaps to be made, no limited songs to choose from, you can play any music you want from Beethoven to Skrillex and everything works automatically!<br />\r\n<br />\r\nIn a world where unsavory tech companies are increasingly using you as a product, we feel compelled to mention that even though Soundscape VR is free, we do not sell any of your data, period. We're extremely focused on user privacy, and are honored that you're here with us to enjoy this music revolution.  Be sure to check out our Discord at https://discord.gg/8cfHAEb to join in with the Soundscape music community and discover new music and friends every day, and for all the latest news and updates about new artist releases.",
+  "short_description": "Soundscape VR is home of the most advanced visual arts and music experiences in virtual reality. Fly, explore, play, create, and immerse yourself in massive surreal audio-reactive worlds of breathtaking visuals in a social musical metaverse without limits.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/636930/header.jpg?t=1554769451",
+  "website": "http://www.musicvisualized.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5 3570k or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 970<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i7 6900k / ryzen 1600x or equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 2060<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Groove Science Studios"
+  ],
+  "publishers": [
+    "Groove Science Studios"
+  ],
+  "packages": [
+    299782
+  ],
+  "package_groups": [
+    {
+      "name": "subscriptions",
+      "title": "Buy Soundscape VR Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 299782,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 24,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">24,99\u20ac at checkout, auto-renewed every 1 month(s) at 24,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 2499
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
+    }
+  ],
+  "genres": [
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "37",
+      "description": "Free to Play"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_6a0fade61d478a77f979b9c243fdac5782dc3476.600x338.jpg?t=1554769451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_6a0fade61d478a77f979b9c243fdac5782dc3476.1920x1080.jpg?t=1554769451"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_f9b326590fc1be35abd308693bd4647bc1214b23.600x338.jpg?t=1554769451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_f9b326590fc1be35abd308693bd4647bc1214b23.1920x1080.jpg?t=1554769451"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_cee7a6eb566bc1a7362347c201367f4e7a1879db.600x338.jpg?t=1554769451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_cee7a6eb566bc1a7362347c201367f4e7a1879db.1920x1080.jpg?t=1554769451"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_4177ee60af4b7e4710e8db9a41efa0d9f2164dac.600x338.jpg?t=1554769451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_4177ee60af4b7e4710e8db9a41efa0d9f2164dac.1920x1080.jpg?t=1554769451"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_2365f6605de40575446b40579a730bfa73a19510.600x338.jpg?t=1554769451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_2365f6605de40575446b40579a730bfa73a19510.1920x1080.jpg?t=1554769451"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_4b5f4b35a99d4e706ce8f5db45b7882cbfbd8ed2.600x338.jpg?t=1554769451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_4b5f4b35a99d4e706ce8f5db45b7882cbfbd8ed2.1920x1080.jpg?t=1554769451"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_bf42b263dff9beb374c15ed566cb2a4871e2c6d6.600x338.jpg?t=1554769451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/636930/ss_bf42b263dff9beb374c15ed566cb2a4871e2c6d6.1920x1080.jpg?t=1554769451"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256744789,
+      "name": "SVR universe",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744789/movie.293x165.jpg?t=1551987725",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744789/movie480.webm?t=1551987725",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744789/movie_max.webm?t=1551987725"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "16 May, 2017"
+  },
+  "support_info": {
+    "url": "https://discord.gg/8cfHAEb",
+    "email": "soundscapeVR@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/636930/page_bg_generated_v6b.jpg?t=1554769451",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

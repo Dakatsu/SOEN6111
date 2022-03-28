@@ -1,0 +1,150 @@
+{
+  "type": "game",
+  "name": "POBEDA",
+  "steam_appid": 623580,
+  "required_age": 0,
+  "is_free": false,
+  "dlc": [
+    624390
+  ],
+  "detailed_description": "Representative of the genre Shoot 'em up, performed in the style of retro games. In the game you have to take control of the crew of the KV-2. On the battlefield you will fight with tanks E-100, Tiger II, PzKpfw IV. <br><br>Features:<br><ul class=\"bb_ul\"><li>Random Generation Of Levels<br></li><li>Mouse Control<br></li><li>The regime &quot;vodka&quot; with permanent death and the effect of &quot;blurred mind&quot;.<br></li><li>Endless gameplay<br></li><li>21:9 support</li></ul><br><img src=\"https://savepic.net/9138789.png\" crossorigin=\"anonymous\">",
+  "about_the_game": "Representative of the genre Shoot 'em up, performed in the style of retro games. In the game you have to take control of the crew of the KV-2. On the battlefield you will fight with tanks E-100, Tiger II, PzKpfw IV. <br><br>Features:<br><ul class=\"bb_ul\"><li>Random Generation Of Levels<br></li><li>Mouse Control<br></li><li>The regime &quot;vodka&quot; with permanent death and the effect of &quot;blurred mind&quot;.<br></li><li>Endless gameplay<br></li><li>21:9 support</li></ul><br><img src=\"https://savepic.net/9138789.png\" crossorigin=\"anonymous\">",
+  "short_description": "Representative of the genre Shoot 'em up, performed in the style of retro games. In the game you have to take control of the crew of the KV-2. On the battlefield you will fight with tanks E-100, Tiger II, PzKpfw IV.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/623580/header.jpg?t=1508455664",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows Xp<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel pentium 4 or Amd Athlon 64 x2<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Intel HD graphics 256mb<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 9.0<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 450 MB</li></ul>",
+    "recommended": "<strong>\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows 10<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel Core i3 or Amd FX<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Intel HD graphics 512mb  or better<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 11<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 450 MB</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Mountain lion<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Core 2 duo<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> 256mb<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 450 MB</li></ul>",
+    "recommended": "<strong>\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> sierra<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Core i3<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> 512mb<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 450 MB</li></ul>"
+  },
+  "linux_requirements": [],
+  "developers": [
+    "RCG",
+    "MyST"
+  ],
+  "publishers": [
+    "RCG"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
+  },
+  "packages": [
+    168100
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy POBEDA",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 168100,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "POBEDA - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_96237be7aa2ed5704e279a8be90407e6609a314d.600x338.jpg?t=1508455664",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_96237be7aa2ed5704e279a8be90407e6609a314d.1920x1080.jpg?t=1508455664"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_95b6c1c42fff49b36c18cf5ec30b021e5601d167.600x338.jpg?t=1508455664",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_95b6c1c42fff49b36c18cf5ec30b021e5601d167.1920x1080.jpg?t=1508455664"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_4f317b310ad2c09ed23f01abd75e7e0d2007119f.600x338.jpg?t=1508455664",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_4f317b310ad2c09ed23f01abd75e7e0d2007119f.1920x1080.jpg?t=1508455664"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_577f8c6db0ab9991469b743618542eea7d982bb2.600x338.jpg?t=1508455664",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_577f8c6db0ab9991469b743618542eea7d982bb2.1920x1080.jpg?t=1508455664"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_eb727a022f9eaeb1fd71d6f9380f1b997fb7be21.600x338.jpg?t=1508455664",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623580/ss_eb727a022f9eaeb1fd71d6f9380f1b997fb7be21.1920x1080.jpg?t=1508455664"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256684186,
+      "name": "POBEDNIY",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256684186/movie.293x165.jpg?t=1493816331",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256684186/movie480.webm?t=1493816331",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256684186/movie_max.webm?t=1493816331"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "9 May, 2017"
+  },
+  "support_info": {
+    "url": "https://vk.com/pobeda_game",
+    "email": "1bestgs@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/623580/page_bg_generated_v6b.jpg?t=1508455664",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

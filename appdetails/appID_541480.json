@@ -1,0 +1,118 @@
+{
+  "type": "video",
+  "name": "Tyler Perry's Boo! A Madea Halloween",
+  "steam_appid": 541480,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>On the spookiest night of the year, Madea is summoned to keep a watchful eye on Brian's teenage daughter and keep her out of trouble. Little does she know, the trouble is coming for her. Fortunately,\u00a0or not, she has her posse of Bam, Hattie and Joe to shield off ghosts and killer clowns. It's a fright fest where all hell-arity breaks loose.\u00a0",
+  "about_the_game": "On the spookiest night of the year, Madea is summoned to keep a watchful eye on Brian's teenage daughter and keep her out of trouble. Little does she know, the trouble is coming for her. Fortunately,\u00a0or not, she has her posse of Bam, Hattie and Joe to shield off ghosts and killer clowns. It's a fright fest where all hell-arity breaks loose.\u00a0",
+  "short_description": "To avoid trouble on All Hallows' Eve, Madea and her posse stay home to keep a watchful eye on Brian's teenage daughter. But when the witching hour strikes, all hell-arity breaks loose.",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/541480/header.jpg?t=1551386705",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.10+<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "legal_notice": "\u00a9 2016 AFFG, LLC",
+  "developers": [
+    "Lionsgate"
+  ],
+  "publishers": [
+    ""
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 33,
+      "description": "Native Steam Controller Support"
+    },
+    {
+      "id": 13,
+      "description": "Captions available"
+    }
+  ],
+  "genres": [
+    {
+      "id": "80",
+      "description": "Movie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_bb8f62bd0659cf1aaa9b7add0d0c7c5b8593e264.600x338.jpg?t=1551386705",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_bb8f62bd0659cf1aaa9b7add0d0c7c5b8593e264.1920x1080.jpg?t=1551386705"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_88afd4116316b12b9e645f32108dcc60b28590b4.600x338.jpg?t=1551386705",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_88afd4116316b12b9e645f32108dcc60b28590b4.1920x1080.jpg?t=1551386705"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_28ba602d13de50809fdee6aa8bea6ac899f61733.600x338.jpg?t=1551386705",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_28ba602d13de50809fdee6aa8bea6ac899f61733.1920x1080.jpg?t=1551386705"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_11f8c8d37cd75f293c43c9e73585dfd76dbe3f19.600x338.jpg?t=1551386705",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_11f8c8d37cd75f293c43c9e73585dfd76dbe3f19.1920x1080.jpg?t=1551386705"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_a6fc69c9e0801c9d0bf9c7088936e1849899b4d3.600x338.jpg?t=1551386705",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/541480/ss_a6fc69c9e0801c9d0bf9c7088936e1849899b4d3.1920x1080.jpg?t=1551386705"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256676444,
+      "name": "Tyler Perry's Boo! a Madea Halloween - Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256676444/movie.293x165.jpg?t=1485890998",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256676444/movie480.webm?t=1485890998",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256676444/movie_max.webm?t=1485890998"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "31 Jan, 2017"
+  },
+  "support_info": {
+    "url": "",
+    "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/541480/page_bg_generated_v6b.jpg?t=1551386705",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "type": "game",
+  "name": "The Mansion",
+  "steam_appid": 893360,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "After a series of unfortunate events, you end up having to live in an assortment of hotels and B&amp;B's.  With money fast running out and with no luck renting a place, you get a mysterious phone call offering you a room...",
+  "about_the_game": "After a series of unfortunate events, you end up having to live in an assortment of hotels and B&amp;B's.  With money fast running out and with no luck renting a place, you get a mysterious phone call offering you a room...",
+  "short_description": "After a series of unfortunate events, you end up having to live in an assortment of hotels and B&amp;B's. With money fast running out and with no luck renting a place, you get a mysterious phone call offering you a room...",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/893360/header.jpg?t=1554481802",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 upwards<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> DirectX / OpenGL capable GPU<br></li><li><strong>Storage:</strong> 256 MB available space<br></li><li><strong>Sound Card:</strong> Any Windows compatible ones</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong> DirectX / OpenGL capable GPU<br></li><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Sound Card:</strong> Any Windows compatible ones</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2<br></li><li><strong>Storage:</strong> 256 MB available space<br></li><li><strong>Sound Card:</strong> Any compatible</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo or later<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2 or later<br></li><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Sound Card:</strong> Any compatible</li></ul>"
+  },
+  "developers": [
+    "Triority"
+  ],
+  "publishers": [
+    "Triority"
+  ],
+  "demos": [
+    {
+      "appid": 893410,
+      "description": ""
+    }
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "37",
+      "description": "Free to Play"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": ""
+  },
+  "support_info": {
+    "url": "",
+    "email": "triority_developer@outlook.com"
+  },
+  "background": "",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": "Sexual inneundo and realistic violence"
+  }
+}

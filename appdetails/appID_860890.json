@@ -1,0 +1,165 @@
+{
+  "type": "game",
+  "name": "Factory Town",
+  "steam_appid": 860890,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/860890/extras/Factory_Town.gif?t=1552398777\" ><br><br>Start with just a few workers and a single building in the middle of the wilderness. Explore your surroundings and harvest trees, crops, and minerals, then process them into increasingly valuable goods. <br><br>Invest in research to unlock automated machinery and logistics to optimize your transport networks &amp; production chains, eventually discovering magic-powered systems that allow clever players to boost their efficiency to extreme levels.<br> <br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/860890/extras/Line_Break_Items.png?t=1552398777\" ><br><br>- Tons of optimization tools at your disposal - roads, wagons, minecarts &amp; railways, marble-run chutes, conveyor belts, and other magical and physical contraptions<br>- 3D terrain will make it a challenge to deliver your resources from high in the mountains down to your production centers<br>- Infinite, procedurally generated map with lots of parameters to adjust<br>- Build complex logical systems with gates, triggers, and filters to make sure resources get to the right destination<br>- Manage supply chains to keep your population supplied with food, clothing, medicine, and other important goods<br>- Use simple click-and-drag actions to directly issue behavior commands to workers, telling them what items to pick up and where to deliver them.<br>- Unlock magical secrets to boost your production buildings to absurd output rates<br>- Mountain in your way? Need a river? No problem - use the terrain sculpting tools to shape the world to suit your needs.<br>- Sandbox / Creative Mode / Powerful procedural world generation &amp; map editor tools<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/860890/extras/Belts.png?t=1552398777\" >",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/860890/extras/Factory_Town.gif?t=1552398777\" ><br><br>Start with just a few workers and a single building in the middle of the wilderness. Explore your surroundings and harvest trees, crops, and minerals, then process them into increasingly valuable goods. <br><br>Invest in research to unlock automated machinery and logistics to optimize your transport networks &amp; production chains, eventually discovering magic-powered systems that allow clever players to boost their efficiency to extreme levels.<br> <br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/860890/extras/Line_Break_Items.png?t=1552398777\" ><br><br>- Tons of optimization tools at your disposal - roads, wagons, minecarts &amp; railways, marble-run chutes, conveyor belts, and other magical and physical contraptions<br>- 3D terrain will make it a challenge to deliver your resources from high in the mountains down to your production centers<br>- Infinite, procedurally generated map with lots of parameters to adjust<br>- Build complex logical systems with gates, triggers, and filters to make sure resources get to the right destination<br>- Manage supply chains to keep your population supplied with food, clothing, medicine, and other important goods<br>- Use simple click-and-drag actions to directly issue behavior commands to workers, telling them what items to pick up and where to deliver them.<br>- Unlock magical secrets to boost your production buildings to absurd output rates<br>- Mountain in your way? Need a river? No problem - use the terrain sculpting tools to shape the world to suit your needs.<br>- Sandbox / Creative Mode / Powerful procedural world generation &amp; map editor tools<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/860890/extras/Belts.png?t=1552398777\" >",
+  "short_description": "Build, automate, and optimize your own village on procedurally-generated 3D terrain. Use marble-run chutes, railways, logistic blocks, conveyor belts, and a variety of worker units to research useful new technology and keep your houses supplied with goods.",
+  "supported_languages": "English, French, Spanish - Spain, Simplified Chinese, German, Portuguese, Russian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/860890/header.jpg?t=1552398777",
+  "website": "http://82apps.com/factorytown",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+  },
+  "linux_requirements": [],
+  "legal_notice": "Copyright 2019 82 Apps, LLC",
+  "developers": [
+    "Erik Asmussen"
+  ],
+  "publishers": [
+    "Erik Asmussen"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 1679,
+    "final": 1679,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "16,79\u20ac"
+  },
+  "packages": [
+    271092
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Factory Town",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 271092,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Factory Town - 16,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1679
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    }
+  ],
+  "genres": [
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_a8d069964ae618c42d207935ede31f6c46408025.600x338.jpg?t=1552398777",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_a8d069964ae618c42d207935ede31f6c46408025.1920x1080.jpg?t=1552398777"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_f948888e011d389bd0b6f7d8814f0bc532a57e2b.600x338.jpg?t=1552398777",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_f948888e011d389bd0b6f7d8814f0bc532a57e2b.1920x1080.jpg?t=1552398777"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_dcc22774336d8082712afcbcf3e6e28f8e0963e3.600x338.jpg?t=1552398777",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_dcc22774336d8082712afcbcf3e6e28f8e0963e3.1920x1080.jpg?t=1552398777"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_b40801ab3874a3b8315207686ab502bf8ca3c468.600x338.jpg?t=1552398777",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_b40801ab3874a3b8315207686ab502bf8ca3c468.1920x1080.jpg?t=1552398777"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_139918433cbc82e65bf29af69e0e450f24e66f8e.600x338.jpg?t=1552398777",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_139918433cbc82e65bf29af69e0e450f24e66f8e.1920x1080.jpg?t=1552398777"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_a33218d0552bcd819e6e0aa0f579bc853f628777.600x338.jpg?t=1552398777",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/860890/ss_a33218d0552bcd819e6e0aa0f579bc853f628777.1920x1080.jpg?t=1552398777"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256743642,
+      "name": "Early Access Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743642/movie.293x165.jpg?t=1552237584",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743642/movie480.webm?t=1552237584",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743642/movie_max.webm?t=1552237584"
+      },
+      "highlight": true
+    },
+    {
+      "id": 256743659,
+      "name": "Early Access Gameplay",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743659/movie.293x165.jpg?t=1550803904",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743659/movie480.webm?t=1550803904",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743659/movie_max.webm?t=1550803904"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 514
+  },
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "12 Mar, 2019"
+  },
+  "support_info": {
+    "url": "",
+    "email": "support@82apps.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/860890/page_bg_generated_v6b.jpg?t=1552398777",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

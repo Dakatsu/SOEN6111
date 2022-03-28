@@ -1,0 +1,180 @@
+{
+  "type": "game",
+  "name": "Total Miner",
+  "steam_appid": 347600,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Total Miner will no longer be supported by Studio Forge Ltd.<br><br>But we are looking at ways to keep the game alive for the community. <br>See <a href=\"https://steamcommunity.com/linkfilter/?url=http://totalminerforums.net/index.php?topic=20168.msg200385#msg200385\" target=\"_blank\" rel=\"noopener\"  >our discussion here</a> on how we might achieve this.<br><br><ul class=\"bb_ul\"><li> We will keep the game here on the Steam store, probably as a free game.<br></li><li> We want to open the games source code and content assets in some way that will allow community members to continue development if they want to.<br></li><li> We want to keep the forum hosted and the discord server open.</li></ul><br>** Note to potential buyers - the current version on sale does not have multi-player.",
+  "about_the_game": "Total Miner will no longer be supported by Studio Forge Ltd.<br><br>But we are looking at ways to keep the game alive for the community. <br>See <a href=\"https://steamcommunity.com/linkfilter/?url=http://totalminerforums.net/index.php?topic=20168.msg200385#msg200385\" target=\"_blank\" rel=\"noopener\"  >our discussion here</a> on how we might achieve this.<br><br><ul class=\"bb_ul\"><li> We will keep the game here on the Steam store, probably as a free game.<br></li><li> We want to open the games source code and content assets in some way that will allow community members to continue development if they want to.<br></li><li> We want to keep the forum hosted and the discord server open.</li></ul><br>** Note to potential buyers - the current version on sale does not have multi-player.",
+  "short_description": "Total Miner is an open world voxel sandbox game. It is primarily designed for creative RPG game builders, but also has two action/adventure style game modes where you can just jump in and play.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/347600/header.jpg?t=1554786046",
+  "website": "http://totalminer.org/",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win XP SP3 / Vista / Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> 2 GHZ Dual Core (4 Threads)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB DirectX 9.0c Compatible (Shader Model 2)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 2.5 GHZ Quad Core (6-8 Threads)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1024 MB DirectX 10 Compatible<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "legal_notice": "\u00a9 Studio Forge Limited. All rights reserved.",
+  "developers": [
+    "Studio Forge Ltd"
+  ],
+  "publishers": [
+    "Studio Forge Ltd"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
+  },
+  "packages": [
+    59842
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Total Miner",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 59842,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Total Miner - 2,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 239
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_b8dae39e61d380648cee0e9d7bf540ec800c4c6c.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_b8dae39e61d380648cee0e9d7bf540ec800c4c6c.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_c048bb41c590af17bd69d8f0313b3f4f1f0a20f9.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_c048bb41c590af17bd69d8f0313b3f4f1f0a20f9.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_c2d1edea4392284bd11dd71546211480c118e0a8.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_c2d1edea4392284bd11dd71546211480c118e0a8.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_4fe0d1613cc63848524c32567d8c2b530dd2284f.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_4fe0d1613cc63848524c32567d8c2b530dd2284f.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_f04b385ac902ca961e7625ed95804f8e82c255c0.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_f04b385ac902ca961e7625ed95804f8e82c255c0.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_94b2e62939d991b5768a4a206b35343480fa2bc4.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_94b2e62939d991b5768a4a206b35343480fa2bc4.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_bc560eea42a34ac08f68583c97fca7db61cc9377.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_bc560eea42a34ac08f68583c97fca7db61cc9377.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_8bf5580f23b213218a1751f6e492b03caeb72839.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_8bf5580f23b213218a1751f6e492b03caeb72839.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_336a2176df5025a829220e5e08d197b2be016a7a.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_336a2176df5025a829220e5e08d197b2be016a7a.1920x1080.jpg?t=1554786046"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_1c3ca43dc1739d606ba95528611dd73797a5232c.600x338.jpg?t=1554786046",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347600/ss_1c3ca43dc1739d606ba95528611dd73797a5232c.1920x1080.jpg?t=1554786046"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256702289,
+      "name": "Greenlight Trailer (Xbox 360 Version)",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256702289/movie.293x165.jpg?t=1512731802",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256702289/movie480.webm?t=1512731802",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256702289/movie_max.webm?t=1512731802"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 335
+  },
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "23 Dec, 2017"
+  },
+  "support_info": {
+    "url": "http://totalminerforums.net",
+    "email": "studioforge@protonmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347600/page_bg_generated_v6b.jpg?t=1554786046",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

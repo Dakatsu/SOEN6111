@@ -1,0 +1,146 @@
+{
+  "type": "game",
+  "name": "Aeternitas",
+  "steam_appid": 935980,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<strong>Welcome to the world of AETERNITAS, where everyone can control the 4 elements! Find your way into Aeternitas, the school for the best elemental wielders across the world, to master the elemental arts, make allies, and challenge each other!</strong><br><br>In this story-driven RPG, you play as Elwin, an ordinary boy who wants to find his way into Aeternitas and master the 4 elements. Along your journey, you will encounter various people whom you can befriend or antagonize; learn fantastic elemental techniques and lore; gather allies and climb to the top of the Aeternitas Tournament Cup; and uncover the truth behind the peaceful world you took for granted. <br><br>Dive into this fresh &amp; charming parallel universe, replete with the magical atmosphere of the 19th-century and a rich cast of characters. From a professor who can control gravity itself to a girl who can control lightning, the people you meet within this world will have exciting and intriguing stories to tell. <br><br><br><strong>In AETERNITAS, you can:</strong><br><br>Immerse yourself in the soulful, character-rich story with an emphasis on school life;<br><br>Convince and recruit a rich and diverse cast of characters with their unique skills to help you out, each with special dialogue and individual storylines;<br><br>Choose your dialogue, altering Elwin's character and relations for the upcoming sequel; <br><br>Dive into a special, fast-paced but intuitive battle system reminiscent of the Final Fantasy series;<br><br>Challenge and defeat 20+ unique enemies, each more powerful than the last; <br><br>Become an Elemental God by mastering the 4 elements and 24+ unique spells; <br><br>Test out hundreds of different strategies and tactics in the sandbox 'spar' mode that gives EXP and Denaros;<br><br>Expect for 12+ hours of gameplay, and more if you read all the books at the library and talk with a certain(?) professor;<br><br>and uncover secret truths and histories of the universe of Aeternitas.",
+  "about_the_game": "<strong>Welcome to the world of AETERNITAS, where everyone can control the 4 elements! Find your way into Aeternitas, the school for the best elemental wielders across the world, to master the elemental arts, make allies, and challenge each other!</strong><br><br>In this story-driven RPG, you play as Elwin, an ordinary boy who wants to find his way into Aeternitas and master the 4 elements. Along your journey, you will encounter various people whom you can befriend or antagonize; learn fantastic elemental techniques and lore; gather allies and climb to the top of the Aeternitas Tournament Cup; and uncover the truth behind the peaceful world you took for granted. <br><br>Dive into this fresh &amp; charming parallel universe, replete with the magical atmosphere of the 19th-century and a rich cast of characters. From a professor who can control gravity itself to a girl who can control lightning, the people you meet within this world will have exciting and intriguing stories to tell. <br><br><br><strong>In AETERNITAS, you can:</strong><br><br>Immerse yourself in the soulful, character-rich story with an emphasis on school life;<br><br>Convince and recruit a rich and diverse cast of characters with their unique skills to help you out, each with special dialogue and individual storylines;<br><br>Choose your dialogue, altering Elwin's character and relations for the upcoming sequel; <br><br>Dive into a special, fast-paced but intuitive battle system reminiscent of the Final Fantasy series;<br><br>Challenge and defeat 20+ unique enemies, each more powerful than the last; <br><br>Become an Elemental God by mastering the 4 elements and 24+ unique spells; <br><br>Test out hundreds of different strategies and tactics in the sandbox 'spar' mode that gives EXP and Denaros;<br><br>Expect for 12+ hours of gameplay, and more if you read all the books at the library and talk with a certain(?) professor;<br><br>and uncover secret truths and histories of the universe of Aeternitas.",
+  "short_description": "AETERNITAS! The RPG game where you get to be a student at an academy in a parallel world, where everyone can control the 4 elements. Brimming with humanity, elements to master, and stories beyond renown.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/935980/header.jpg?t=1555454433",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Default Integrated Graphics (Intel HD4000); truth be told, pixel art is not graphically demanding<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, or 10<br></li><li><strong>Processor:</strong> 2GHz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> &gt;Intel HD4000; truth be told, pixel art is not graphically demanding<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Elliotte Lee"
+  ],
+  "publishers": [
+    "Pacific Investment and Consulting, Pte. Ltd."
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_0b4c3825816c04cb55ed2a6996638c5735392de4.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_0b4c3825816c04cb55ed2a6996638c5735392de4.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_b60e57e13339fd5b15164ad73f1951f760496f42.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_b60e57e13339fd5b15164ad73f1951f760496f42.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_1cc53ab12502efc347d1c996f0c7bcd0bb42826b.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_1cc53ab12502efc347d1c996f0c7bcd0bb42826b.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_6bb30921ced8e3b4d3a694f2ed75717f75220f86.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_6bb30921ced8e3b4d3a694f2ed75717f75220f86.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_898c2d7d83fee152403224a115c57b39d30225ba.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_898c2d7d83fee152403224a115c57b39d30225ba.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_80bcb079f6d584f07828e5f86cc7cb9849aa9e94.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_80bcb079f6d584f07828e5f86cc7cb9849aa9e94.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_e70d1a28772ca174dc98fd59772904a25f23cbc4.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_e70d1a28772ca174dc98fd59772904a25f23cbc4.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_54f9c0e7b81fb6b3defe4bae72c054f707d50e81.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_54f9c0e7b81fb6b3defe4bae72c054f707d50e81.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_f055d21741ef359f4be3b137726ca1de26263b52.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_f055d21741ef359f4be3b137726ca1de26263b52.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_c92eb68715cd4ded159aa5d18d9f11d22fc795fb.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_c92eb68715cd4ded159aa5d18d9f11d22fc795fb.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_b96b8a947a8194eb7188ff103ad57e41fee555a7.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_b96b8a947a8194eb7188ff103ad57e41fee555a7.1920x1080.jpg?t=1555454433"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_02878c9ecbedab3503f26010fc5d95acc3e8ea9c.600x338.jpg?t=1555454433",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/935980/ss_02878c9ecbedab3503f26010fc5d95acc3e8ea9c.1920x1080.jpg?t=1555454433"
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "April 2019"
+  },
+  "support_info": {
+    "url": "",
+    "email": "aeternitasgame@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/935980/page_bg_generated_v6b.jpg?t=1555454433",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

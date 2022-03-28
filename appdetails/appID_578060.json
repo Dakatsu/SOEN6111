@@ -1,0 +1,145 @@
+{
+  "type": "game",
+  "name": "Noda",
+  "steam_appid": 578060,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "We live in 3D. Our thinking is patterned from this three dimensional world. Putting mental notes on paper or drawing diagrams on flat surfaces means a lot is lost in translation. <br><br>With Noda use your spatial thinking and interact naturally with information. <br><br>Shape your knowledge and Map your understanding.<br><br>Noda maps have a simple structure. Shapes hold concepts and Links show relationships between them. This format supports a wide range of topics, anything where relationships between concepts is important.<h2 class=\"bb_tag\">USES</h2><br>People are using Noda for prioritizing their time, creating lesson plans, designing web site flows, modeling enterprise data, storyboarding client videos and much more.<h2 class=\"bb_tag\">FEATURES</h2><br><ul class=\"bb_ul\"><li> Multi-modal input - Type, Import, Paste, Speak your text<br></li><li> Custom Images for personalized maps<br></li><li> Export Screenshots and Data Tables<br></li><li> Optional Binaural Beats for Alpha brainwave entrainment</li></ul><h2 class=\"bb_tag\">BENEFITS</h2><br>Whole body thinking and productive immersion. A new dimension for creative and analytic thinking.<br><br>If you\u2019re a person who thinks spatially this is probably the tool you\u2019ve been yearning for. If you aren\u2019t yet a spatial thinker Noda is a great way to start expanding your thinking in new directions. Either way welcome to Noda and connected thinking.",
+  "about_the_game": "We live in 3D. Our thinking is patterned from this three dimensional world. Putting mental notes on paper or drawing diagrams on flat surfaces means a lot is lost in translation. <br><br>With Noda use your spatial thinking and interact naturally with information. <br><br>Shape your knowledge and Map your understanding.<br><br>Noda maps have a simple structure. Shapes hold concepts and Links show relationships between them. This format supports a wide range of topics, anything where relationships between concepts is important.<h2 class=\"bb_tag\">USES</h2><br>People are using Noda for prioritizing their time, creating lesson plans, designing web site flows, modeling enterprise data, storyboarding client videos and much more.<h2 class=\"bb_tag\">FEATURES</h2><br><ul class=\"bb_ul\"><li> Multi-modal input - Type, Import, Paste, Speak your text<br></li><li> Custom Images for personalized maps<br></li><li> Export Screenshots and Data Tables<br></li><li> Optional Binaural Beats for Alpha brainwave entrainment</li></ul><h2 class=\"bb_tag\">BENEFITS</h2><br>Whole body thinking and productive immersion. A new dimension for creative and analytic thinking.<br><br>If you\u2019re a person who thinks spatially this is probably the tool you\u2019ve been yearning for. If you aren\u2019t yet a spatial thinker Noda is a great way to start expanding your thinking in new directions. Either way welcome to Noda and connected thinking.",
+  "short_description": "Think better with your whole body in VR. Noda is a mind mapping, brainstorming, white boarding space for connected thinking.",
+  "supported_languages": "English",
+  "reviews": "\u201cA mind map is a type of diagram which aims to show visual and spatial relationships between concepts. Mind maps can be useful as a form of note-taking, studying, project planning, brainstorming, and more. Traditional mind maps are two dimensional but Noda intuitively adds a third dimension thanks to the power of natural input via the Rift and Vive.ks to the power of natural input via the Rift and Vive.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.roadtovr.com/noda-mind-mapping-tool-spatial-thinking-vr/\" target=\"_blank\" rel=\"noopener\"  >Road to VR</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/578060/header.jpg?t=1553898786",
+  "website": "http://noda.io",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5-4590 equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / AMD 290 equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "legal_notice": "Copyright Coding Leap LLC",
+  "developers": [
+    "Coding Leap"
+  ],
+  "publishers": [
+    "Coding Leap"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 1079,
+    "final": 1079,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,79\u20ac"
+  },
+  "packages": [
+    147582
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Noda",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 147582,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Noda - 10,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1079
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_d44d07c41a06a8147e3c9cd745b90509e977db87.600x338.jpg?t=1553898786",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_d44d07c41a06a8147e3c9cd745b90509e977db87.1920x1080.jpg?t=1553898786"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_d203d03dd387bddcdb87c7d59e035d4fcf43256e.600x338.jpg?t=1553898786",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_d203d03dd387bddcdb87c7d59e035d4fcf43256e.1920x1080.jpg?t=1553898786"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_9ad23391244d6ad707490d77b78f697e74f0a740.600x338.jpg?t=1553898786",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_9ad23391244d6ad707490d77b78f697e74f0a740.1920x1080.jpg?t=1553898786"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_d925a24a7fa35cacfb29069a37795b4ee63c4e8f.600x338.jpg?t=1553898786",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_d925a24a7fa35cacfb29069a37795b4ee63c4e8f.1920x1080.jpg?t=1553898786"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_a91962e4f5673361d4cb4fab33795ee443da35f0.600x338.jpg?t=1553898786",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_a91962e4f5673361d4cb4fab33795ee443da35f0.1920x1080.jpg?t=1553898786"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_1bafea635f37805984aab9258c1866a777cff798.600x338.jpg?t=1553898786",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578060/ss_1bafea635f37805984aab9258c1866a777cff798.1920x1080.jpg?t=1553898786"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256743722,
+      "name": "Launch",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743722/movie.293x165.jpg?t=1552510859",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743722/movie480.webm?t=1552510859",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743722/movie_max.webm?t=1552510859"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "12 Jan, 2017"
+  },
+  "support_info": {
+    "url": "http://noda.io",
+    "email": "contact@noda.io"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578060/page_bg_generated_v6b.jpg?t=1553898786",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

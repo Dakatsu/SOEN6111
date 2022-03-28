@@ -1,0 +1,109 @@
+{
+  "type": "video",
+  "name": "The Alchemist Cookbook",
+  "steam_appid": 537910,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Young outcast Sean has isolated himself in a trailer in the woods, setting out on alchemic pursuits, with his cat Kaspar as his sole companion. Filled with disdain for authority, he\u2019s fled the daily grind and holed up in the wilderness, escaping a society that has no place for him. But when he turns from chemistry to black magic to crack nature\u2019s secret, things go awry and he awakens something far more sinister and dangerous.",
+  "about_the_game": "Young outcast Sean has isolated himself in a trailer in the woods, setting out on alchemic pursuits, with his cat Kaspar as his sole companion. Filled with disdain for authority, he\u2019s fled the daily grind and holed up in the wilderness, escaping a society that has no place for him. But when he turns from chemistry to black magic to crack nature\u2019s secret, things go awry and he awakens something far more sinister and dangerous.",
+  "short_description": "Young outcast Sean has isolated himself in a trailer in the woods with his cat Kaspar. When he turns from chemistry to black magic to crack nature\u2019s secret, things go awry and he awakens something far more sinister and dangerous.",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "reviews": "\u201cIf you only see two American indie features co-starring Satan this year, one should obviously be THE WITCH. The other almost certainly will turn out to be THE ALCHEMIST COOKBOOK\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://variety.com/2016/film/markets-festivals/the-alchemist-cookbook-review-sxsw-1201732153/\" target=\"_blank\" rel=\"noopener\"  >Variety</a><br><br>\u201cA lean and mean curio\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.villagevoice.com/film/kiss-kiss-bam-bam-fall-in-love-with-america-s-most-quietly-prestigious-film-festival-8733285\" target=\"_blank\" rel=\"noopener\"  >Village Voice</a><br><br>\u201cHickson\u2019s largely silent performance is superb (in the kind of complex role not typically given to black actors in modern horror movies), never overselling his creeping madness\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.bkmag.com/2016/06/14/bamcinemafest-week-1-picks/\" target=\"_blank\" rel=\"noopener\"  >Brooklyn Magazine</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/537910/header.jpg?t=1551385976",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.7<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.10+<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core 2 ou l'\u00e9quivalent d'AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 200 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 5Mbps pour 540p, 3Mbps pour 360p</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Linux Ubuntu 12.04 ou ult\u00e9rieur, SteamOS 2.20 ou ult\u00e9rieur<br></li><li><strong>Processeur\u00a0:</strong> Un processeur Intel Core I3+ ou l'\u00e9quivalent d'AMD est recommand\u00e9 pour une lecture en HD 1080p<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Bande-passante de 12Mbps pour 1080p ou 8Mbps pour 720p</li></ul>"
+  },
+  "legal_notice": "MMXVI AID Ventures, LLC",
+  "developers": [
+    "Oscilloscope Laboratories"
+  ],
+  "publishers": [
+    "Oscilloscope Laboratories"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 33,
+      "description": "Native Steam Controller Support"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_d4341ea405637e74e8f4bf83b08a5178518c7d73.600x338.jpg?t=1551385976",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_d4341ea405637e74e8f4bf83b08a5178518c7d73.1920x1080.jpg?t=1551385976"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_0ddb010c0d35cec6342f563ff3d7947a3d4be2ae.600x338.jpg?t=1551385976",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_0ddb010c0d35cec6342f563ff3d7947a3d4be2ae.1920x1080.jpg?t=1551385976"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_8b0a82c2153e896151a151b6a4b0368c00b46779.600x338.jpg?t=1551385976",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_8b0a82c2153e896151a151b6a4b0368c00b46779.1920x1080.jpg?t=1551385976"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_d3a6dce2b6aea4eadbd7ff345aae048de043c25b.600x338.jpg?t=1551385976",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_d3a6dce2b6aea4eadbd7ff345aae048de043c25b.1920x1080.jpg?t=1551385976"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_d72cfa00eea050293cb0fbaedff9252f5a9de922.600x338.jpg?t=1551385976",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537910/ss_d72cfa00eea050293cb0fbaedff9252f5a9de922.1920x1080.jpg?t=1551385976"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256672182,
+      "name": "The Alchemist Cookbook Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256672182/movie.293x165.jpg?t=1475870491",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256672182/movie480.webm?t=1475870491",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256672182/movie_max.webm?t=1475870491"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "7 Oct, 2016"
+  },
+  "support_info": {
+    "url": "oscilloscope.net",
+    "email": "info@oscilloscope.net"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/537910/page_bg_generated_v6b.jpg?t=1551385976",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

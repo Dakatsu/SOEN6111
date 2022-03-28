@@ -1,0 +1,178 @@
+{
+  "type": "game",
+  "name": "Fruit Sudoku\ud83c\udf49 2",
+  "steam_appid": 711080,
+  "required_age": 0,
+  "is_free": false,
+  "dlc": [
+    1069020,
+    1069021,
+    1069022,
+    1069023,
+    1069024,
+    1069025,
+    1069026,
+    1069027,
+    1069028,
+    1069029
+  ],
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/711080/extras/steam.png?t=1555203794\" ><br><br><strong>Fruit Sudoku\ud83c\udf49 2</strong> is a classic 3x3 sudoku, where all puzzle digits are replaced by various fruits and vegetables. You need to fill empty grids so that each fruit or vegetable is unique in every row, every column and in its 3x3 box.<br><br>- easy and relaxing gameplay <br>- a pleasant music accompaniment <br>- impressive achievements<br>- a small price<br><br>As soon as possible:<br>- trading cards",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/711080/extras/steam.png?t=1555203794\" ><br><br><strong>Fruit Sudoku\ud83c\udf49 2</strong> is a classic 3x3 sudoku, where all puzzle digits are replaced by various fruits and vegetables. You need to fill empty grids so that each fruit or vegetable is unique in every row, every column and in its 3x3 box.<br><br>- easy and relaxing gameplay <br>- a pleasant music accompaniment <br>- impressive achievements<br>- a small price<br><br>As soon as possible:<br>- trading cards",
+  "short_description": "Fruit Sudoku\ud83c\udf49 2 is a classic 3x3 sudoku, where all puzzle digits are replaced by various fruits and vegetables. You need to fill empty grids so that each fruit or vegetable is unique in every row, every column and in its 3x3 box.",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong>, Vietnamese<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/711080/header.jpg?t=1555203794",
+  "website": "http://slygames.ru/fruit-sudoku\ud83c\udf49-2",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Celeron 1800 MHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X<br></li><li><strong>Processor:</strong> Intel Celeron 1800 MHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux + SteamOS<br></li><li><strong>Processor:</strong> Intel Celeron 1800 MHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux + SteamOS<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+  },
+  "developers": [
+    "Sly"
+  ],
+  "publishers": [
+    "SlyGames"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 78,
+    "final": 78,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,78\u20ac"
+  },
+  "packages": [
+    205612,
+    240545
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Fruit Sudoku\ud83c\udf49 2",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 205612,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fruit Sudoku\ud83c\udf49 2 - 0,78\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 78
+        },
+        {
+          "packageid": 240545,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fruit Sudoku\ud83c\udf49 2 - Commercial License - 0,78\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 78
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_c0b4cccdb0064be8c89b900c76ef9bdef0fa6245.600x338.jpg?t=1555203794",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_c0b4cccdb0064be8c89b900c76ef9bdef0fa6245.1920x1080.jpg?t=1555203794"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_ec64bbadd56a23b94fad5e3ac2d20f54aeba4ed0.600x338.jpg?t=1555203794",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_ec64bbadd56a23b94fad5e3ac2d20f54aeba4ed0.1920x1080.jpg?t=1555203794"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_b016f909f62b813dcc079bac405f063ceb5f8a59.600x338.jpg?t=1555203794",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_b016f909f62b813dcc079bac405f063ceb5f8a59.1920x1080.jpg?t=1555203794"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_0865b61340cc3b3c1e3b99e9f671cb01b2eb060f.600x338.jpg?t=1555203794",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_0865b61340cc3b3c1e3b99e9f671cb01b2eb060f.1920x1080.jpg?t=1555203794"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_d39e2e0eac159ed109b4e4ccc0b6f809876f6eec.600x338.jpg?t=1555203794",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/711080/ss_d39e2e0eac159ed109b4e4ccc0b6f809876f6eec.1920x1080.jpg?t=1555203794"
+    }
+  ],
+  "achievements": {
+    "total": 5,
+    "highlighted": [
+      {
+        "name": "Green Pepper",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/711080/245601c0117cc8a4502b1399bc2d769860f88a74.jpg"
+      },
+      {
+        "name": "Tomato",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/711080/781278e3ac479c9d3ffcd71738c2edc8300863ef.jpg"
+      },
+      {
+        "name": "Kiwi",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/711080/3c8b3cfb786076e2b48bc699f4b5fe50db24ac75.jpg"
+      },
+      {
+        "name": "Pear",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/711080/cbf5d47ef0b11730892f83e1c9e060b58f7eebed.jpg"
+      },
+      {
+        "name": "Banana",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/711080/d23f86978ee694c27a48fafc2064c1838e00e48f.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "25 Sep, 2017"
+  },
+  "support_info": {
+    "url": "http://slygames.ru/",
+    "email": "help@slygames.ru/"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711080/page_bg_generated_v6b.jpg?t=1555203794",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}
